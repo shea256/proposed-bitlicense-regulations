@@ -544,107 +544,125 @@ Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302
 <a name="advertisingandmarketing"/>
 ## Section 200.18  Advertising and marketing
 
-(a)	Each Licensee engaged in Virtual Currency Business Activity shall not advertise its products, services, or activities in New York or to New York Residents without including the name of the Licensee and the legend that such Licensee is “Licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.”
-(b)	Each Licensee shall maintain, for examination by the superintendent, all advertising and marketing materials, including but not limited to print media, internet media (including websites), radio and television advertising, road show materials, presentations, and brochures.  Each Licensee shall maintain hard copy, website captures, and audio and video scripts of its advertising and marketing materials, as applicable.
-(c)	In all advertising and marketing materials, each Licensee shall comply with all disclosure requirements under federal and state laws, rules, and regulations.
-(d)	In all advertising and marketing materials, each Licensee and any person or entity acting on its behalf, shall not, directly or by implication, make any false, misleading, or deceptive representations or omissions.
+(a) Each Licensee engaged in Virtual Currency Business Activity shall not advertise its products, services, or activities in New York or to New York Residents without including the name of the Licensee and the legend that such Licensee is “Licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.”
 
+(b) Each Licensee shall maintain, for examination by the superintendent, all advertising and marketing materials, including but not limited to print media, internet media (including websites), radio and television advertising, road show materials, presentations, and brochures. Each Licensee shall maintain hard copy, website captures, and audio and video scripts of its advertising and marketing materials, as applicable.
 
+(c) In all advertising and marketing materials, each Licensee shall comply with all disclosure requirements under federal and state laws, rules, and regulations.
 
-Statutory authority:  Financial Services Law, sections 102, 202, 301, and 302
+(d) In all advertising and marketing materials, each Licensee and any person or entity acting on its behalf, shall not, directly or by implication, make any false, misleading, or deceptive representations or omissions.
+
+Statutory authority: Financial Services Law, sections 102, 202, 301, and 302
  
 <a name="consumerprotection"/>
 ## Section 200.19  Consumer protection
 
-(a)	Disclosure of material risks.  As part of establishing a relationship with a customer, and prior to entering into an initial transaction for, on behalf of, or with such customer, each Licensee shall disclose in clear, conspicuous, and legible writing in the English language and in any other predominant language spoken by the customers of the Licensee, all material risks associated with its products, services, and activities and Virtual Currency generally, including at a minimum, the following:
-(1)	virtual currency is not legal tender, is not backed by the government, and accounts and value balances are not subject to Federal Deposit Insurance Corporation or Securities Investor Protection Corporation protections;
-(2)	legislative and regulatory changes or actions at the state, federal, or international level may adversely affect the use, transfer, exchange, and value of Virtual Currency;
-(3)	transactions in Virtual Currency are generally irreversible, and, accordingly, losses due to fraudulent or accidental transactions may not be recoverable;
-(4)	some Virtual Currency transactions shall be deemed to be made when recorded on a “block chain”
+(a) Disclosure of material risks. As part of establishing a relationship with a customer, and prior to entering into an initial transaction for, on behalf of, or with such customer, each Licensee shall disclose in clear, conspicuous, and legible writing in the English language and in any other predominant language spoken by the customers of the Licensee, all material risks associated with its products, services, and activities and Virtual Currency generally, including at a minimum, the following:
 
-ledger, which is not necessarily the date or time that the customer initiates the transaction;
+(1) virtual currency is not legal tender, is not backed by the government, and accounts and value balances are not subject to Federal Deposit Insurance Corporation or Securities Investor Protection Corporation protections;
 
-(5)	the value of Virtual Currency is derived from the continued willingness of market participants to exchange Fiat Currency for Virtual Currency, which may result in the potential for permanent and total loss of value of a particular Virtual Currency should the market for that Virtual Currency disappear;
-(6)	there is no assurance that a Person who accepts a Virtual Currency as payment today will continue to do so in the future;
-(7)	the volatility and unpredictability of the price of Virtual Currency relative to Fiat Currency may result in significant loss or tax liability over a short period of time;
-(8)	the nature of Virtual Currency may lead to an increased risk of fraud or cyber attack;
- 
-(9)	the nature of Virtual Currency means that any technological difficulties experienced by the Licensee may prevent the access or use of a customer’s Virtual Currency; and
-(10)	any bond or trust account for the benefit of customers may not be sufficient to cover any and all losses incurred by customers.
-(b)	Disclosure of general terms and conditions.  When opening an account for a new customer, and prior to entering into an initial transaction for, on behalf of, or with such customer, each Licensee shall disclose in clear, conspicuous, and legible writing in the English language and in any other predominant language spoken by the customers of the Licensee, all relevant terms and conditions associated with its products, services, and activities and Virtual Currency generally, including at a minimum, the following, as applicable:
-(1)	the customer’s liability for unauthorized Virtual Currency transactions;
+(2) legislative and regulatory changes or actions at the state, federal, or international level may adversely affect the use, transfer, exchange, and value of Virtual Currency;
 
-(2)	the customer’s right to stop payment of a preauthorized Virtual Currency transfer and the procedure to initiate such a stop-payment order;
-(3)	the Licensee’s liability to the customer under any applicable federal or state laws, rules, or regulations;
-(4)	under what circumstances the Licensee will, absent a court or government order, disclose
+(3) transactions in Virtual Currency are generally irreversible, and, accordingly, losses due to fraudulent or accidental transactions may not be recoverable;
 
-information concerning the customer’s account to third parties;
+(4) some Virtual Currency transactions shall be deemed to be made when recorded on a “block chain” ledger, which is not necessarily the date or time that the customer initiates the transaction;
 
-(5)	the customer’s right to receive periodic account statements and valuations from the Licensee;
+(5) the value of Virtual Currency is derived from the continued willingness of market participants to exchange Fiat Currency for Virtual Currency, which may result in the potential for permanent and total loss of value of a particular Virtual Currency should the market for that Virtual Currency disappear;
 
-(6)	the customer’s right to receive a receipt, trade ticket, or other evidence of a transaction; (7)	the customer’s right to prior notice of a change in the Licensee’s rules or policies; and
-(8)		such other disclosures as are customarily given in connection with the opening of customer accounts. (c)	Disclosures of the terms of transactions.  Prior to each transaction in Virtual Currency, for, on behalf of, or with a customer, each Licensee shall furnish to each such customer a written disclosure in clear, conspicuous, and legible writing in the English language and in any other predominant language spoken by the customers of
- 
-the Licensee, containing the terms and conditions of the transaction, which shall include, at a minimum, to the extent applicable:
-(1)	the amount of the transaction;
+(6) there is no assurance that a Person who accepts a Virtual Currency as payment today will continue to do so in the future;
 
-(2)	any fees, expenses, and charges borne by the customer, including applicable exchange rates; (3)	the type and nature of the Virtual Currency transaction;
-(4)	a warning that once executed the transaction may not be undone, if applicable; and
+(7) the volatility and unpredictability of the price of Virtual Currency relative to Fiat Currency may result in significant loss or tax liability over a short period of time;
 
-(5)       such other disclosures as are customarily given in connection with a transaction of this nature. (d)       Acknowledgement of disclosures.  Each Licensee shall ensure that all disclosures required in this Section are acknowledged as received by customers.
-(e)	Receipts.  Upon completion of any transaction, each Licensee shall provide to a customer a receipt containing the following information:
-(1)	the name and contact information of the Licensee, including a telephone number established by the
+(8) the nature of Virtual Currency may lead to an increased risk of fraud or cyber attack;
 
-Licensee to answer questions and register complaints;
+(9) the nature of Virtual Currency means that any technological difficulties experienced by the Licensee may prevent the access or use of a customer’s Virtual Currency; and
 
-(2)	the type, value, date, and precise time of the transaction; (3)	the fee charged;
-(4)	the exchange rate, if applicable;
+(10) any bond or trust account for the benefit of customers may not be sufficient to cover any and all losses incurred by customers.
 
-(5)	a statement of the liability of the Licensee for non-delivery or delayed delivery; (6)	a statement of the refund policy of the Licensee; and
-(7)	any additional information the superintendent may require.
+(b) Disclosure of general terms and conditions. When opening an account for a new customer, and prior to entering into an initial transaction for, on behalf of, or with such customer, each Licensee shall disclose in clear, conspicuous, and legible writing in the English language and in any other predominant language spoken by the customers of the Licensee, all relevant terms and conditions associated with its products, services, and activities and Virtual Currency generally, including at a minimum, the following, as applicable:
 
-(f)	Each Licensee shall make available to the Department, upon request, the form of the receipts it is required to provide to customers in accordance with Subsection 200.19(e).
-(g)	Prevention of fraud.  Licensees are prohibited from engaging in fraudulent activity and customers of
+(1) the customer’s liability for unauthorized Virtual Currency transactions;
 
-Licensees that are victims of fraud shall be entitled to claim compensation from any trust account, bond, or
- 
-insurance policy maintained by the Licensee. Additionally, each Licensee shall take reasonable steps to detect and prevent fraud, including by establishing and maintaining a written anti-fraud policy.  The anti-fraud policy shall, at a minimum, include:
-(1)	the identification and assessment of fraud-related risk areas; (2)	procedures and controls to protect against identified risks; (3)	allocation of responsibility for monitoring risks; and
-(4)	procedures for the periodic evaluation and revision of the anti-fraud procedures, controls, and monitoring mechanisms.
+(2) the customer’s right to stop payment of a preauthorized Virtual Currency transfer and the procedure to initiate such a stop-payment order;
 
+(3) the Licensee’s liability to the customer under any applicable federal or state laws, rules, or regulations;
 
+(4) under what circumstances the Licensee will, absent a court or government order, disclose information concerning the customer’s account to third parties;
 
-Statutory Authority:  Financial Services Law, sections 102, 201, 202, 301, 302, 306, and 404
+(5) the customer’s right to receive periodic account statements and valuations from the Licensee;
+
+(6) the customer’s right to receive a receipt, trade ticket, or other evidence of a transaction;
+
+(7) the customer’s right to prior notice of a change in the Licensee’s rules or policies; and
+
+(8) such other disclosures as are customarily given in connection with the opening of customer accounts.
+
+(c) Disclosures of the terms of transactions. Prior to each transaction in Virtual Currency, for, on behalf of, or with a customer, each Licensee shall furnish to each such customer a written disclosure in clear, conspicuous, and legible writing in the English language and in any other predominant language spoken by the customers of the Licensee, containing the terms and conditions of the transaction, which shall include, at a minimum, to the extent applicable:
+
+(1) the amount of the transaction;
+
+(2) any fees, expenses, and charges borne by the customer, including applicable exchange rates;
+
+(3) the type and nature of the Virtual Currency transaction;
+
+(4) a warning that once executed the transaction may not be undone, if applicable; and
+
+(5) such other disclosures as are customarily given in connection with a transaction of this nature.
+
+(d) Acknowledgement of disclosures. Each Licensee shall ensure that all disclosures required in this Section are acknowledged as received by customers.
+
+(e) Receipts. Upon completion of any transaction, each Licensee shall provide to a customer a receipt containing the following information:
+
+(1) the name and contact information of the Licensee, including a telephone number established by the Licensee to answer questions and register complaints;
+
+(2) the type, value, date, and precise time of the transaction;
+
+(3) the fee charged;
+
+(4) the exchange rate, if applicable;
+
+(5) a statement of the liability of the Licensee for non-delivery or delayed delivery;
+
+(6) a statement of the refund policy of the Licensee; and
+
+(7) any additional information the superintendent may require.
+
+(f) Each Licensee shall make available to the Department, upon request, the form of the receipts it is required to provide to customers in accordance with Subsection 200.19(e).
+
+(g) Prevention of fraud. Licensees are prohibited from engaging in fraudulent activity and customers of Licensees that are victims of fraud shall be entitled to claim compensation from any trust account, bond, or insurance policy maintained by the Licensee. Additionally, each Licensee shall take reasonable steps to detect and prevent fraud, including by establishing and maintaining a written anti-fraud policy. The anti-fraud policy shall, at a minimum, include:
+
+(1) the identification and assessment of fraud-related risk areas;
+
+(2) procedures and controls to protect against identified risks;
+
+(3) allocation of responsibility for monitoring risks; and
+
+(4) procedures for the periodic evaluation and revision of the anti-fraud procedures, controls, and monitoring mechanisms.
+
+Statutory Authority: Financial Services Law, sections 102, 201, 202, 301, 302, 306, and 404
  
 <a name="complaints"/>
 ## Section 200.20  Complaints
 
-(a)	Each Licensee shall establish and maintain written policies and procedures to fairly and timely resolve complaints.
-(b)	Each Licensee must provide, in a clear and conspicuous manner, on its website(s), in any physical location(s), and in any other location as the superintendent may prescribe, the following disclosures:
-(1)	the Licensee’s mailing address, email address, and telephone number for the receipt of complaints;
+(a) Each Licensee shall establish and maintain written policies and procedures to fairly and timely resolve complaints.
 
-(2)	a statement that the complainant may also bring his or her complaint to the attention of the
+(b) Each Licensee must provide, in a clear and conspicuous manner, on its website(s), in any physical location(s), and in any other location as the superintendent may prescribe, the following disclosures:
 
-Department;
+(1) the Licensee’s mailing address, email address, and telephone number for the receipt of complaints;
 
-(3)	the Department’s mailing address, website, and telephone number; and
+(2) a statement that the complainant may also bring his or her complaint to the attention of the Department;
 
-(4)	such other information as the superintendent may require.
+(3) the Department’s mailing address, website, and telephone number; and
 
-(c)	Each Licensee shall report to the superintendent any change in the Licensee’s complaint policies or
+(4) such other information as the superintendent may require.
 
-procedures within seven days.
+(c) Each Licensee shall report to the superintendent any change in the Licensee’s complaint policies or procedures within seven days.
 
-
-
-
-Statutory authority:  Financial Services Law, sections 102, 201, 202, 301, and 302
+Statutory authority: Financial Services Law, sections 102, 201, 202, 301, and 302
  
 <a name="transitionalperiod"/>
 ## Section 200.21  Transitional Period
 
-A Person already engaged in Virtual Currency Business Activity must apply for a license in accordance with this Part within 45 days of the effective date of this regulation.  In doing so, such applicant shall be deemed in compliance with the licensure requirements of this Part until it has been notified by the superintendent that its application has been denied, in which case it shall immediately cease operation in this state.  Any Person engaged in Virtual Currency Business Activity that fails to submit an application for a license within 45 days of the effective date of this regulation shall be deemed to be conducting unlicensed Virtual Currency Business Activity.
+A Person already engaged in Virtual Currency Business Activity must apply for a license in accordance with this Part within 45 days of the effective date of this regulation. In doing so, such applicant shall be deemed in compliance with the licensure requirements of this Part until it has been notified by the superintendent that its application has been denied, in which case it shall immediately cease operation in this state. Any Person engaged in Virtual Currency Business Activity that fails to submit an application for a license within 45 days of the effective date of this regulation shall be deemed to be conducting unlicensed Virtual Currency Business Activity.
 
-
-
-Statutory authority:  Financial Services Law, sections 202, 206, 302, 303, 305, 306, 309, 404, and 408; Executive Law, section 63.
+Statutory authority: Financial Services Law, sections 202, 206, 302, 303, 305, 306, 309, 404, and 408; Executive Law, section 63.

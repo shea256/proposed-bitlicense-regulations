@@ -36,7 +36,7 @@ NEW YORK CODES, RULES AND REGULATIONS
 
 TITLE 23.  DEPARTMENT OF FINANCIAL SERVICES
 
-# CHAPTER I.  REGULATIONS OF THE SUPERINTENDENT OF FINANCIAL SERVICES - PART 200. VIRTUAL CURRENCIES
+## CHAPTER I.  REGULATIONS OF THE SUPERINTENDENT OF FINANCIAL SERVICES - PART 200. VIRTUAL CURRENCIES
 
 Statutory Authority: Financial Services Law, sections 102,104, 201, 206, 301, 302, 309, and 408
 
@@ -46,8 +46,9 @@ Statutory Authority: Financial Services Law, sections 102,104, 201, 206, 301, 30
 This Part contains regulations relating to the conduct of business involving Virtual Currency, as defined herein,
 
 in accordance with the superintendent’s powers pursuant to the above-stated authority.
- 
-Section 200.2  Definitions
+
+<a name="definitions"/>
+## Section 200.2  Definitions
 
 For purposes of this Part only, the following definitions shall apply:
 
@@ -82,8 +83,9 @@ shall Virtual Currency be construed to include digital units that are used exclu
 
 
 Statutory Authority:  Financial Services Law, sections 102, 201, 301, and 302
- 
-Section 200.3  License
+
+<a name="license"/>
+## Section 200.3  License
 
 (a)	License required.  No Person shall, without a license obtained from the superintendent as provided in this Part, engage in any Virtual Currency Business Activity.
 (b)	Unlicensed agents prohibited.  Each Licensee is prohibited from conducting any Virtual Currency

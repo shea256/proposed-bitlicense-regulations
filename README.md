@@ -47,46 +47,58 @@ Proposed BitLicense Regulations for the State of New York
 <a name="introduction"/>
 ## Section 200.1  Introduction
 
-This Part contains regulations relating to the conduct of business involving Virtual Currency, as defined herein,
-
-in accordance with the superintendent’s powers pursuant to the above-stated authority.
+This Part contains regulations relating to the conduct of business involving Virtual Currency, as defined herein, in accordance with the superintendent’s powers pursuant to the above-stated authority.
 
 <a name="definitions"/>
 ## Section 200.2  Definitions
 
 For purposes of this Part only, the following definitions shall apply:
 
-(a)	Affiliate means any Person that directly or indirectly controls, is controlled by, or is under common control with, another Person;
-(b)	Cyber Security Event means any act or attempt, successful or unsuccessful, to gain unauthorized access
+(a) Affiliate means any Person that directly or indirectly controls, is controlled by, or is under common control with, another Person;
 
-to, disrupt, or misuse a Licensee’s electronic systems or information stored on such systems;
+(b) Cyber Security Event means any act or attempt, successful or unsuccessful, to gain unauthorized access to, disrupt, or misuse a Licensee’s electronic systems or information stored on such systems;
 
-(c)	Department means the New York State Department of Financial Services;
+(c) Department means the New York State Department of Financial Services;
 
-(d)	Fiat Currency means government-issued currency that is designated as legal tender in its country of issuance through government decree, regulation, or law;
-(e)	Licensee means any Person duly licensed by the superintendent pursuant to this Part; (f)	New York means the State of New York;
-(g)	New York Resident means any Person that resides, is located, has a place of business, or is conducting business in New York;
-(h)	Person means an individual, partnership, corporation, association, joint stock association, trust, or other business combination or entity, however organized;
-(i)	Principal Officer means an executive officer of an entity, including, but not limited to, the chief executive, financial, operating, and compliance officers, president, general counsel, managing partner, general partner, controlling partner, and trustee, as applicable;
-(j)	Principal Stockholder means any Person that directly or indirectly owns, controls, or holds with power
+(d) Fiat Currency means government-issued currency that is designated as legal tender in its country of issuance through government decree, regulation, or law;
 
-to vote ten percent or more of any class of outstanding capital stock of a corporate entity or possesses the power to direct or cause the direction of the management or policies of the entity;
-(k)	Principal Beneficiary means any Person entitled to ten percent or more of the benefits of a trust;
- 
-(l)        Transmission means the transfer, by or through a third party, of Virtual Currency from one Person to another Person, including the transfer from the account or storage repository of one Person to the account or storage repository of another Person;
-(m)	Virtual Currency means any type of digital unit that is used as a medium of exchange or a form of digitally stored value or that is incorporated into payment system technology.  Virtual Currency shall be broadly construed to include digital units of exchange that (i) have a centralized repository or administrator; (ii) are decentralized and have no centralized repository or administrator; or (iii) may be created or obtained by computing or manufacturing effort.  Virtual Currency shall not be construed to include digital units that are used solely within online gaming platforms with no market or application outside of those gaming platforms, nor
-shall Virtual Currency be construed to include digital units that are used exclusively as part of a customer affinity or rewards program, and can be applied solely as payment for purchases with the issuer and/or other designated merchants, but cannot be converted into, or redeemed for, Fiat Currency;
-(n)	Virtual Currency Business Activity means the conduct of any one of the following types of activities involving New York or a New York Resident:
-(1)	receiving Virtual Currency for transmission or transmitting the same;
+(e) Licensee means any Person duly licensed by the superintendent pursuant to this Part;
 
-(2)	securing, storing, holding, or maintaining custody or control of Virtual Currency on behalf of others; (3)	buying and selling Virtual Currency as a customer business;
-(4)	performing retail conversion services, including the conversion or exchange of Fiat Currency or other value into Virtual Currency, the conversion or exchange of Virtual Currency into Fiat Currency or other value, or the conversion or exchange of one form of Virtual Currency into another form of Virtual Currency; or
-(5)	controlling, administering, or issuing a Virtual Currency.
+(f) New York means the State of New York;
 
+(g) New York Resident means any Person that resides, is located, has a place of business, or is conducting business in New York;
 
+(h) Person means an individual, partnership, corporation, association, joint stock association, trust, or other business combination or entity, however organized;
 
+(i) Principal Officer means an executive officer of an entity, including, but not limited to, the chief executive, financial, operating, and compliance officers, president, general counsel, managing partner, general partner, controlling partner, and trustee, as applicable;
 
-Statutory Authority:  Financial Services Law, sections 102, 201, 301, and 302
+(j) Principal Stockholder means any Person that directly or indirectly owns, controls, or holds with power to vote ten percent or more of any class of outstanding capital stock of a corporate entity or possesses the power to direct or cause the direction of the management or policies of the entity;
+
+(k) Principal Beneficiary means any Person entitled to ten percent or more of the benefits of a trust;
+
+(l) Transmission means the transfer, by or through a third party, of Virtual Currency from one Person to another Person, including the transfer from the account or storage repository of one Person to the account or storage repository of another Person;
+
+(m) Virtual Currency means any type of digital unit that is used as a medium of exchange or a form of digitally stored value or that is incorporated into payment system technology. Virtual Currency shall be broadly construed to include digital units of exchange that
+
+(i) have a centralized repository or administrator;
+
+(ii) are decentralized and have no centralized repository or administrator; or
+
+(iii) may be created or obtained by computing or manufacturing effort. Virtual Currency shall not be construed to include digital units that are used solely within online gaming platforms with no market or application outside of those gaming platforms, nor shall Virtual Currency be construed to include digital units that are used exclusively as part of a customer affinity or rewards program, and can be applied solely as payment for purchases with the issuer and/or other designated merchants, but cannot be converted into, or redeemed for, Fiat Currency;
+
+(n) Virtual Currency Business Activity means the conduct of any one of the following types of activities involving New York or a New York Resident:
+
+(1) receiving Virtual Currency for transmission or transmitting the same;
+
+(2) securing, storing, holding, or maintaining custody or control of Virtual Currency on behalf of others;
+
+(3) buying and selling Virtual Currency as a customer business;
+
+(4) performing retail conversion services, including the conversion or exchange of Fiat Currency or other value into Virtual Currency, the conversion or exchange of Virtual Currency into Fiat Currency or other value, or the conversion or exchange of one form of Virtual Currency into another form of Virtual Currency; or
+
+(5) controlling, administering, or issuing a Virtual Currency.
+
+Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302
 
 <a name="license"/>
 ## Section 200.3  License

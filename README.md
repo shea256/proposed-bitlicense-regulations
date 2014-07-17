@@ -4,62 +4,44 @@ bitlicense
 NEW YORK STATE DEPARTMENT OF FINANCIAL SERVICES PROPOSED
 NEW YORK CODES, RULES AND REGULATIONS
 
-
-
-
 TITLE 23.  DEPARTMENT OF FINANCIAL SERVICES
 
 CHAPTER I.  REGULATIONS OF THE SUPERINTENDENT OF FINANCIAL SERVICES PART 200. VIRTUAL CURRENCIES
 
-Section 200.1  Introduction Section 200.2  Definitions Section 200.3  License Section 200.4  Application
-Section 200.5  Application fees
-
-Section 200.6  Action by superintendent
-
-Section 200.7  Compliance
-
-Section 200.8  Capital requirements
-
-Section 200.9  Custody and protection of customer assets
-
-Section 200.10  Material change to business
-
-Section 200.11  Change of control; mergers and acquisitions
-
-Section 200.12  Books and records
-
-Section 200.13  Examinations
-
-Section 200.14  Reports and financial disclosures
-
-Section 200.15  Anti-money laundering program
- 
-Section 200.16  Cyber security program
-
-Section 200.17  Business continuity and disaster recovery
-
-Section 200.18  Advertising and marketing Section 200.19  Consumer protection Section 200.20  Complaints
-Section 200.21  Transitional period
- 
+##### Table of Contents
+[Section 200.1  Introduction](#introduction)  
+[Section 200.2  Definitions](#definitions)  
+[Section 200.3  License](#license)  
+[Section 200.4  Application](#application)  
+[Section 200.5  Application fees](#applicationfees)  
+[Section 200.6  Action by superintendent](#actionbysuperintendent)  
+[Section 200.7  Compliance](#compliance)  
+[Section 200.8  Capital requirements](#capitalrequirements)  
+[Section 200.9  Custody and protection of customer assets](#custodyandprotection)  
+[Section 200.10  Material change to business](#materialchange)  
+[Section 200.11  Change of control; mergers and acquisitions](#changeofcontrol)  
+[Section 200.12  Books and records](#booksandrecords)  
+[Section 200.13  Examinations](#examinations)  
+[Section 200.14  Reports and financial disclosures](#reportsandfinancialdisclosures)  
+[Section 200.15  Anti-money laundering program](#antimoneylaundering)  
+[Section 200.16  Cyber security program](#cybersecurityprogram)  
+[Section 200.17  Business continuity and disaster recovery](#businesscontinuity)  
+[Section 200.18  Advertising and marketing](#advertisingandmarketing)  
+[Section 200.19  Consumer protection](#consumerprotection)  
+[Section 200.20  Complaints](#complaints)  
+[Section 200.21  Transitional period](#transitionalperiod)  
 
 NEW YORK STATE DEPARTMENT OF FINANCIAL SERVICES PROPOSED
 NEW YORK CODES, RULES AND REGULATIONS
 
-
-
-
 TITLE 23.  DEPARTMENT OF FINANCIAL SERVICES
 
-CHAPTER I.  REGULATIONS OF THE SUPERINTENDENT OF FINANCIAL SERVICES PART 200. VIRTUAL CURRENCIES
-
-
+# CHAPTER I.  REGULATIONS OF THE SUPERINTENDENT OF FINANCIAL SERVICES - PART 200. VIRTUAL CURRENCIES
 
 Statutory Authority: Financial Services Law, sections 102,104, 201, 206, 301, 302, 309, and 408
 
-
-
-
-Section 200.1  Introduction
+<a name="introduction"/>
+## Section 200.1  Introduction
 
 This Part contains regulations relating to the conduct of business involving Virtual Currency, as defined herein,
 

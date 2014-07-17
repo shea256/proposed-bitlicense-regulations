@@ -24,7 +24,7 @@ CHAPTER I.  REGULATIONS OF THE SUPERINTENDENT OF FINANCIAL SERVICES PART 200. VI
 [Section 200.13  Examinations](#examinations)  
 [Section 200.14  Reports and financial disclosures](#reportsandfinancialdisclosures)  
 [Section 200.15  Anti-money laundering program](#antimoneylaundering)  
-[Section 200.16  Cyber security program](#cybersecurityprogram)  
+[Section 200.16  Cyber security program](#cybersecurity)  
 [Section 200.17  Business continuity and disaster recovery](#businesscontinuity)  
 [Section 200.18  Advertising and marketing](#advertisingandmarketing)  
 [Section 200.19  Consumer protection](#consumerprotection)  
@@ -147,7 +147,7 @@ Statutory authority:  Financial Services Law, sections 202, 206, 301, 302, and 3
 Procedures Act, section 102
  
 <a name="actionbysuperintendent"></a>
-Section 200.6  Action by superintendent
+## Section 200.6  Action by superintendent
 
 (a)	Generally.  Upon the filing of an application for licensing under this Part, payment of the required fee, and demonstration by the applicant of its ability to comply with the provisions of this Part, the superintendent shall investigate the financial condition and responsibility, financial and business experience, and character and general fitness of the applicant.  If the superintendent finds these qualities are such as to warrant the belief that the applicant’s business will be conducted honestly, fairly, equitably, carefully, and efficiently within the purposes and intent of this Part, and in a manner commanding the confidence and trust of the community, the superintendent shall advise the applicant in writing of his or her approval of the application, and shall issue to the applicant a license to conduct Virtual Currency Business Activity, subject to the provisions of this Part and such other conditions as the superintendent shall deem appropriate; or the superintendent may deny the application.
 (b)	Approval or denial of application.  The superintendent shall approve or deny every application for a license hereunder within 90 days from the filing of an application deemed by the superintendent to be complete. Such period of 90 days may be extended at the discretion of the superintendent for such additional reasonable period of time as may be required to enable compliance with this Part.  A license issued pursuant to this Part shall remain in full force and effect until it is surrendered by the Licensee or revoked or suspended as provided in this Part.
@@ -202,7 +202,7 @@ type of liability;
 Statutory Authority:  Financial Services Law, sections 102, 202, 301, and 302
  
 <a name="custodyandprotection"/>
-Section 200.9  Custody and protection of customer assets
+## Section 200.9  Custody and protection of customer assets
 
 (a)	Each Licensee shall maintain a bond or trust account in United States dollars for the benefit of its customers in such form and amount as is acceptable to the superintendent for the protection of the Licensee’s customers.
 (b)	To the extent a Licensee secures, stores, holds, or maintains custody or control of Virtual Currency on behalf of another Person, such Licensee shall hold Virtual Currency of the same type and amount as that which is owed or obligated to such other Person.
@@ -296,7 +296,7 @@ books, records, accounts, documents, and other information.
 
 Statutory authority:  Financial Services Law, sections 102, 202, 301, and 302
  
-<a name="reportandfinancialdisclosures"/>
+<a name="reportsandfinancialdisclosures"/>
 ## Section 200.14  Reports and financial disclosures
 
 (a)	Each Licensee shall submit to the superintendent quarterly financial statements within 45 days following the close of the Licensee’s fiscal quarter in the form, and containing such information, as the superintendent shall prescribe, including without limitation, the following information:

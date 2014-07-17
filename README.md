@@ -233,51 +233,53 @@ Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302
 <a name="custodyandprotection"/>
 ## Section 200.9  Custody and protection of customer assets
 
-(a)	Each Licensee shall maintain a bond or trust account in United States dollars for the benefit of its customers in such form and amount as is acceptable to the superintendent for the protection of the Licensee’s customers.
-(b)	To the extent a Licensee secures, stores, holds, or maintains custody or control of Virtual Currency on behalf of another Person, such Licensee shall hold Virtual Currency of the same type and amount as that which is owed or obligated to such other Person.
-(c)	Each Licensee is prohibited from selling, transferring, assigning, lending, hypothecating, pledging, or otherwise using or encumbering assets, including Virtual Currency, held, stored, or maintained by, or under the custody or control of, such Licensee on behalf of another Person.
+(a) Each Licensee shall maintain a bond or trust account in United States dollars for the benefit of its customers in such form and amount as is acceptable to the superintendent for the protection of the Licensee’s customers.
 
+(b) To the extent a Licensee secures, stores, holds, or maintains custody or control of Virtual Currency on behalf of another Person, such Licensee shall hold Virtual Currency of the same type and amount as that which is owed or obligated to such other Person.
 
+(c) Each Licensee is prohibited from selling, transferring, assigning, lending, hypothecating, pledging, or otherwise using or encumbering assets, including Virtual Currency, held, stored, or maintained by, or under the custody or control of, such Licensee on behalf of another Person.
 
-Statutory Authority:  Financial Services Law, sections 102, 202, 301, and 302
- 
+Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302
+
 <a name="materialchange"/>
 ## Section 200.10  Material change to business
 
-(a)       Each Licensee must obtain the superintendent’s prior written approval for any plan or proposal to introduce or offer a new product, service, or activity, or to make a material change to an existing product, service, or activity, involving New York or New York Residents.
-(b)	A “material change” may occur where:
+(a) Each Licensee must obtain the superintendent’s prior written approval for any plan or proposal to introduce or offer a new product, service, or activity, or to make a material change to an existing product, service, or activity, involving New York or New York Residents.
 
-(1)	a change is proposed to an existing product, service, or activity that may cause such product, service, or activity to be materially different from that previously listed on the application for licensing by the superintendent;
-(2)	the proposed change may raise a legal or regulatory issue about the permissibility of the product, service, or activity; or
-(3)	the proposed change may raise safety and soundness or operational concerns.
+(b) A “material change” may occur where:
 
-(c)	The Licensee shall submit a written plan describing the proposed material change, including a detailed description of the business operations, compliance policies, and the impact on the overall business of the Licensee, as well as such other information as requested by the superintendent.
+(1) a change is proposed to an existing product, service, or activity that may cause such product, service, or activity to be materially different from that previously listed on the application for licensing by the superintendent;
 
+(2) the proposed change may raise a legal or regulatory issue about the permissibility of the product, service, or activity; or
 
+(3) the proposed change may raise safety and soundness or operational concerns.
 
-Statutory Authority:  Financial Services Law, sections 102, 202, 301, and 302
+(c) The Licensee shall submit a written plan describing the proposed material change, including a detailed description of the business operations, compliance policies, and the impact on the overall business of the Licensee, as well as such other information as requested by the superintendent.
+
+Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302
  
 <a name="changeofcontrol"/>
 ## Section 200.11  Change of control; mergers and acquisitions
 
-(a)	Change of Control.  No action shall be taken, except with the prior written approval of the superintendent, that may result in a change of control of a Licensee.
-(1)	Prior to any change of control, the Person seeking to acquire control of a Licensee shall submit a written application to the superintendent in a form and substance acceptable to the superintendent, including detailed information about the applicant and all directors, Principal Officers, Principal Stockholders, and Principal Beneficiaries of the applicant, as applicable.
-(2)	For purposes of this Section, the term “control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Licensee whether through the ownership of stock of such Licensee or the stock of any Person that possesses such power.  Control shall be presumed to exist if a Person, directly or indirectly, owns, controls, or holds with power to vote ten percent or more of the voting stock of a Licensee or of any Person that owns, controls, or holds with power to vote ten percent or more of the voting stock of such Licensee.
-(3)	The superintendent shall approve or deny every application for a change of control of a Licensee hereunder within 120 days from the filing of an application deemed by the superintendent to be complete.  Such period of 120 days may be extended by the superintendent, for good cause shown, for such additional
-reasonable period of time as may be required to enable compliance with the requirements and conditions of this
+(a) Change of Control. No action shall be taken, except with the prior written approval of the superintendent, that may result in a change of control of a Licensee.
 
-Part.
+(1) Prior to any change of control, the Person seeking to acquire control of a Licensee shall submit a written application to the superintendent in a form and substance acceptable to the superintendent, including detailed information about the applicant and all directors, Principal Officers, Principal Stockholders, and Principal Beneficiaries of the applicant, as applicable.
 
-(4)	In determining whether to approve a proposed change of control, the superintendent shall, among other factors, take into consideration the public interest and the needs and convenience of the public.
-(b)	Mergers and Acquisitions.  No action shall be taken, except with the prior written approval of the superintendent, that may result in a merger or acquisition of all or a substantial part of the assets of a Licensee.
- 
-(1)	Prior to any such merger or acquisition, an application containing a written plan of merger or acquisition shall be submitted to the superintendent by the entities that are to merge or by the acquiring entity, as applicable.  Such plan shall be in form and substance satisfactory to the superintendent, and shall specify each entity to be merged, the entity that is to receive into itself the merging entity, or the entity acquiring all or substantially all of the assets of the Licensee, as applicable, and shall describe the terms and conditions of the merger or acquisition and the mode of carrying it into effect.
-(2)	The superintendent shall approve or deny a proposed merger or a proposed acquisition of all or a substantial part of the assets of a Licensee within 120 days after the submission of the proposed plan to the Department.  Such period of 120 days may be extended by the superintendent, for good cause shown, for such additional reasonable period of time as may be required to enable compliance with the requirements and conditions of this Part.
-(3)	In determining whether to so approve a proposed merger or acquisition, the superintendent shall, among other factors, take into consideration the public interest and the needs and convenience of the public.
+(2) For purposes of this Section, the term “control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Licensee whether through the ownership of stock of such Licensee or the stock of any Person that possesses such power. Control shall be presumed to exist if a Person, directly or indirectly, owns, controls, or holds with power to vote ten percent or more of the voting stock of a Licensee or of any Person that owns, controls, or holds with power to vote ten percent or more of the voting stock of such Licensee.
 
+(3) The superintendent shall approve or deny every application for a change of control of a Licensee hereunder within 120 days from the filing of an application deemed by the superintendent to be complete. Such period of 120 days may be extended by the superintendent, for good cause shown, for such additional reasonable period of time as may be required to enable compliance with the requirements and conditions of this Part.
 
+(4) In determining whether to approve a proposed change of control, the superintendent shall, among other factors, take into consideration the public interest and the needs and convenience of the public.
 
-Statutory authority:  Financial Services Law, sections 102, 202, 301, and 302
+(b) Mergers and Acquisitions. No action shall be taken, except with the prior written approval of the superintendent, that may result in a merger or acquisition of all or a substantial part of the assets of a Licensee.
+
+(1) Prior to any such merger or acquisition, an application containing a written plan of merger or acquisition shall be submitted to the superintendent by the entities that are to merge or by the acquiring entity, as applicable. Such plan shall be in form and substance satisfactory to the superintendent, and shall specify each entity to be merged, the entity that is to receive into itself the merging entity, or the entity acquiring all or substantially all of the assets of the Licensee, as applicable, and shall describe the terms and conditions of the merger or acquisition and the mode of carrying it into effect.
+
+(2) The superintendent shall approve or deny a proposed merger or a proposed acquisition of all or a substantial part of the assets of a Licensee within 120 days after the submission of the proposed plan to the Department. Such period of 120 days may be extended by the superintendent, for good cause shown, for such additional reasonable period of time as may be required to enable compliance with the requirements and conditions of this Part.
+
+(3) In determining whether to so approve a proposed merger or acquisition, the superintendent shall, among other factors, take into consideration the public interest and the needs and convenience of the public.
+
+Statutory authority: Financial Services Law, sections 102, 202, 301, and 302
  
 <a name="booksandrecords"/>
 ## Section 200.12  Books and records

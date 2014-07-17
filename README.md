@@ -372,131 +372,174 @@ Statutory authority: Financial Services Law, sections 102, 202, 301, 302, and 30
 ## Section 200.15  Anti-money laundering program
 
 All values in United States dollars referenced herein must be calculated using the methodology to determine the value of Virtual Currency in Fiat Currency that was approved by the Department under this Part.
-(a)	Each Licensee shall conduct an initial risk assessment that will consider legal, compliance, financial, and reputational risks associated with the Licensee’s activities, services, customers, counterparties, and geographic location and shall establish, maintain, and enforce an anti-money laundering program based thereon. The Licensee shall conduct additional assessments on an annual basis, or more frequently as risks change, and shall modify its anti-money laundering program as appropriate to reflect any such changes.
-(b)	The anti-money laundering program shall, at a minimum:
 
-(1)	provide for a system of internal controls, policies, and procedures designed to ensure ongoing compliance with all applicable anti-money laundering laws, rules, and regulations;
-(2)	provide for independent testing for compliance with, and the effectiveness of, the anti-money laundering program to be conducted by qualified personnel of the Licensee or by a qualified outside party, at least annually, the findings of which shall be summarized in a written report submitted to the superintendent; (3)	 designate a qualified individual or individuals in compliance responsible for coordinating and
-monitoring day-to-day compliance with the anti-money laundering program; and
+(a) Each Licensee shall conduct an initial risk assessment that will consider legal, compliance, financial, and reputational risks associated with the Licensee’s activities, services, customers, counterparties, and geographic location and shall establish, maintain, and enforce an anti-money laundering program based thereon. The Licensee shall conduct additional assessments on an annual basis, or more frequently as risks change, and shall modify its anti-money laundering program as appropriate to reflect any such changes.
 
-(4)	provide ongoing training for appropriate personnel to ensure they have a fulsome understanding of anti-money laundering requirements and to enable them to identify transactions required to be reported and maintain records required to be kept in accordance with this Part.
-(c)	The anti-money laundering program shall include a written anti-money laundering policy reviewed and approved by the Licensee's board of directors or equivalent governing body.
-(d)	Each Licensee, as part of its anti-money laundering program, shall maintain records and make reports in the manner set forth below.
- 
-(1)	Records of Virtual Currency transactions.  Each Licensee shall maintain the following information for all transactions involving the payment, receipt, exchange or conversion, purchase, sale, transfer, or transmission of Virtual Currency:  the identity and physical addresses of the parties involved, the amount or value of the transaction, including in what denomination purchased, sold, or transferred, the method of payment, the date(s) on which the transaction was initiated and completed, and a description of the transaction.
-(2)	Reports on transactions.  When a Licensee is involved in a transaction or series of transactions for the receipt, exchange, conversion, purchase, sale, transfer, or transmission of Virtual Currency, in an aggregate amount exceeding the United States dollar value of $10,000 in one day, by one Person, the Licensee shall notify the Department, in a manner prescribed by the superintendent, within 24 hours.
-(3)	Reporting of Suspicious Activity.  Each Licensee shall monitor for transactions that might signify money laundering, tax evasion, or other illegal or criminal activity and notify the Department, in a manner prescribed by the superintendent, immediately upon detection of such a transaction(s).
-(i)	Each Licensee shall file Suspicious Activity Reports (“SARs”) in accordance with applicable
+(b) The anti-money laundering program shall, at a minimum:
 
-federal laws, rules, and regulations.
+(1) provide for a system of internal controls, policies, and procedures designed to ensure ongoing compliance with all applicable anti-money laundering laws, rules, and regulations;
 
-(ii)	Each Licensee that is not required to file SARs under federal law shall file with the superintendent, in a form prescribed by the superintendent, reports of transactions that indicate a possible violation of law or regulation within 30 days from the detection of the facts that constitute a need for filing. Continuing suspicious activity shall be reviewed on an ongoing basis and a suspicious activity report shall be filed within 120 days of the last filing describing continuing activity.
-(e)	No Licensee shall structure transactions, or assist in the structuring of transactions, to evade reporting requirements under this Part.
-(f)	No Licensee shall engage in, facilitate, or knowingly allow the transfer or transmission of Virtual
+(2) provide for independent testing for compliance with, and the effectiveness of, the anti-money laundering program to be conducted by qualified personnel of the Licensee or by a qualified outside party, at least annually, the findings of which shall be summarized in a written report submitted to the superintendent;
 
-Currency when such action will obfuscate the identity of an individual customer or counterparty.  Nothing in
- 
-this Section, however, shall be construed to require a Licensee to make available to the general public the fact or nature of the movement of Virtual Currency by individual customers or counterparties.
-(g)	Each Licensee shall also maintain, as part of its anti-money laundering program, a customer identification program.
-(1)	Identification and verification of account holders.  When opening an account for a customer, each Licensee must, at a minimum, verify the customer’s identity, to the extent reasonable and practicable, maintain records of the information used to verify such identity, including name, physical address, and other identifying information, and check customers against the Specially Designated Nationals (“SDNs”) list maintained by the Office of Foreign Asset Control (“OFAC”), a part of the U.S. Treasury Department.  Enhanced due diligence may be required based on additional factors, such as for high risk customers, high-volume accounts, or accounts on which a suspicious activity report has been filed.
-(2)	Enhanced due diligence for accounts involving foreign entities.  Licensees that maintain accounts for non-U.S. Persons and non-U.S. Licensees must establish enhanced due diligence policies, procedures, and controls to detect money laundering, including assessing the risk presented by such accounts based on the
-nature of the foreign business, the type and purpose of the activity, and the anti-money laundering and supervisory regime of the foreign jurisdiction.
-(3)	Prohibition on accounts with foreign shell entities.  Licensees are prohibited from maintaining relationships of any type in connection with their Virtual Currency Business Activity with entities that do not have a physical presence in any country.
-(4)	Identification required for large transactions.  Each Licensee must require verification of accountholders initiating transactions having a value greater than $3,000.
-(h)	Each Licensee shall demonstrate that it has risk-based policies, procedures, and practices to ensure, to the maximum extent practicable, compliance with applicable regulations issued by OFAC.
- 
-(i)	Each Licensee shall have in place appropriate policies and procedures to block or reject specific or impermissible transactions that violate federal or state laws, rules, or regulations.
-(j)	The individual(s) designated by the Licensee, pursuant to Subsection 200.15(b)(3), shall be responsible for day-to-day operations of the anti-money laundering program and shall, at a minimum:
-(1)	Monitor changes in anti-money laundering laws, including updated OFAC and SDN lists, and update the program accordingly;
-(2)	Maintain all records required to be maintained under this Section; (3)	Review all filings required under this Section before submission;
-(4)	Escalate matters to the board of directors, senior management, or appropriate governing body and seek outside counsel, as appropriate;
-(5)	Provide periodic reporting, at least annually, to the board of directors, senior management, or appropriate governing body; and
-(6)	Ensure compliance with relevant training requirements.
+(3) designate a qualified individual or individuals in compliance responsible for coordinating and monitoring day-to-day compliance with the anti-money laundering program; and
 
+(4) provide ongoing training for appropriate personnel to ensure they have a fulsome understanding of anti-money laundering requirements and to enable them to identify transactions required to be reported and maintain records required to be kept in accordance with this Part.
 
+(c) The anti-money laundering program shall include a written anti-money laundering policy reviewed and approved by the Licensee's board of directors or equivalent governing body.
 
+(d) Each Licensee, as part of its anti-money laundering program, shall maintain records and make reports in the manner set forth below.
 
-Statutory authority:  Financial Services Law, sections 201, 202, 302, and 404
+(1) Records of Virtual Currency transactions. Each Licensee shall maintain the following information for all transactions involving the payment, receipt, exchange or conversion, purchase, sale, transfer, or transmission of Virtual Currency: the identity and physical addresses of the parties involved, the amount or value of the transaction, including in what denomination purchased, sold, or transferred, the method of payment, the date(s) on which the transaction was initiated and completed, and a description of the transaction.
+
+(2) Reports on transactions. When a Licensee is involved in a transaction or series of transactions for the receipt, exchange, conversion, purchase, sale, transfer, or transmission of Virtual Currency, in an aggregate amount exceeding the United States dollar value of $10,000 in one day, by one Person, the Licensee shall notify the Department, in a manner prescribed by the superintendent, within 24 hours.
+
+(3) Reporting of Suspicious Activity. Each Licensee shall monitor for transactions that might signify money laundering, tax evasion, or other illegal or criminal activity and notify the Department, in a manner prescribed by the superintendent, immediately upon detection of such a transaction(s).
+
+(i) Each Licensee shall file Suspicious Activity Reports (“SARs”) in accordance with applicable federal laws, rules, and regulations.
+
+(ii) Each Licensee that is not required to file SARs under federal law shall file with the superintendent, in a form prescribed by the superintendent, reports of transactions that indicate a possible violation of law or regulation within 30 days from the detection of the facts that constitute a need for filing. Continuing suspicious activity shall be reviewed on an ongoing basis and a suspicious activity report shall be filed within 120 days of the last filing describing continuing activity.
+
+(e) No Licensee shall structure transactions, or assist in the structuring of transactions, to evade reporting requirements under this Part.
+
+(f) No Licensee shall engage in, facilitate, or knowingly allow the transfer or transmission of Virtual Currency when such action will obfuscate the identity of an individual customer or counterparty. Nothing in this Section, however, shall be construed to require a Licensee to make available to the general public the fact or nature of the movement of Virtual Currency by individual customers or counterparties.
+
+(g) Each Licensee shall also maintain, as part of its anti-money laundering program, a customer identification program.
+
+(1) Identification and verification of account holders. When opening an account for a customer, each Licensee must, at a minimum, verify the customer’s identity, to the extent reasonable and practicable, maintain records of the information used to verify such identity, including name, physical address, and other identifying information, and check customers against the Specially Designated Nationals (“SDNs”) list maintained by the Office of Foreign Asset Control (“OFAC”), a part of the U.S. Treasury Department. Enhanced due diligence may be required based on additional factors, such as for high risk customers, high-volume accounts, or accounts on which a suspicious activity report has been filed.
+
+(2) Enhanced due diligence for accounts involving foreign entities. Licensees that maintain accounts for non-U.S. Persons and non-U.S. Licensees must establish enhanced due diligence policies, procedures, and controls to detect money laundering, including assessing the risk presented by such accounts based on the nature of the foreign business, the type and purpose of the activity, and the anti-money laundering and supervisory regime of the foreign jurisdiction.
+
+(3) Prohibition on accounts with foreign shell entities. Licensees are prohibited from maintaining relationships of any type in connection with their Virtual Currency Business Activity with entities that do not have a physical presence in any country.
+
+(4) Identification required for large transactions. Each Licensee must require verification of accountholders initiating transactions having a value greater than $3,000.
+
+(h) Each Licensee shall demonstrate that it has risk-based policies, procedures, and practices to ensure, to the maximum extent practicable, compliance with applicable regulations issued by OFAC.
+
+(i) Each Licensee shall have in place appropriate policies and procedures to block or reject specific or impermissible transactions that violate federal or state laws, rules, or regulations.
+
+(j) The individual(s) designated by the Licensee, pursuant to Subsection 200.15(b)(3), shall be responsible for day-to-day operations of the anti-money laundering program and shall, at a minimum:
+
+(1) Monitor changes in anti-money laundering laws, including updated OFAC and SDN lists, and update the program accordingly;
+
+(2) Maintain all records required to be maintained under this Section;
+
+(3) Review all filings required under this Section before submission;
+
+(4) Escalate matters to the board of directors, senior management, or appropriate governing body and seek outside counsel, as appropriate;
+
+(5) Provide periodic reporting, at least annually, to the board of directors, senior management, or appropriate governing body; and
+
+(6) Ensure compliance with relevant training requirements.
+
+Statutory authority: Financial Services Law, sections 201, 202, 302, and 404
  
 <a name="cybersecurity"/>
-Section 200.16  Cyber security program
+## Section 200.16  Cyber security program
 
-(a)	Generally.  Each Licensee shall establish and maintain an effective cyber security program to ensure the availability and functionality of the Licensee’s electronic systems and to protect those systems and any sensitive data stored on those systems from unauthorized access, use, or tampering.  The cyber security program shall be designed to perform the following five core cyber security functions:
-(1)	identify internal and external cyber risks by, at a minimum, identifying the information stored on the Licensee’s systems, the sensitivity of such information, and how and by whom such information may be accessed;
-(2)	protect the Licensee’s electronic systems, and the information stored on those systems, from unauthorized access, use, or other malicious acts through the use of defensive infrastructure and the implementation of policies and procedures;
-(3)	detect systems intrusions, data breaches, unauthorized access to systems or information, malware, and other Cyber Security Events;
-(4)	respond to detected Cyber Security Events to mitigate any negative effects; and
+(a) Generally. Each Licensee shall establish and maintain an effective cyber security program to ensure the availability and functionality of the Licensee’s electronic systems and to protect those systems and any sensitive data stored on those systems from unauthorized access, use, or tampering. The cyber security program shall be designed to perform the following five core cyber security functions:
 
-(5)	recover from Cyber Security Events and restore normal operations and services.
+(1) identify internal and external cyber risks by, at a minimum, identifying the information stored on the Licensee’s systems, the sensitivity of such information, and how and by whom such information may be accessed;
 
-(b)	Policy.  Each Licensee shall implement a written cyber security policy setting forth the Licensee’s policies and procedures for the protection of its electronic systems and customer and counterparty data stored on those systems, which shall be reviewed and approved by the Licensee’s board of directors or equivalent governing body at least annually.  The cyber security policy must address the following areas:
-(1)	information security;
+(2) protect the Licensee’s electronic systems, and the information stored on those systems, from unauthorized access, use, or other malicious acts through the use of defensive infrastructure and the implementation of policies and procedures;
 
-(2)	data governance and classification; (3)	access controls;
-(4)	business continuity and disaster recovery planning and resources;
- 
-(5)	capacity and performance planning;
+(3) detect systems intrusions, data breaches, unauthorized access to systems or information, malware, and other Cyber Security Events;
 
-(6)	systems operations and availability concerns; (7)	systems and network security;
-(8)	systems and application development and quality assurance; (9)	physical security and environmental controls;
-(10)	customer data privacy;
+(4) respond to detected Cyber Security Events to mitigate any negative effects; and
 
-(11)	vendor and third-party service provider management;
+(5) recover from Cyber Security Events and restore normal operations and services.
 
-(12)	monitoring and implementing changes to core protocols not directly controlled by the Licensee, as applicable; and
-(13)	incident response.
+(b) Policy. Each Licensee shall implement a written cyber security policy setting forth the Licensee’s policies and procedures for the protection of its electronic systems and customer and counterparty data stored on those systems, which shall be reviewed and approved by the Licensee’s board of directors or equivalent governing body at least annually. The cyber security policy must address the following areas:
 
-(c)	Chief Information Security Officer.  Each Licensee shall designate a qualified employee to serve as the Licensee’s Chief Information Security Officer (“CISO”) responsible for overseeing and implementing the Licensee’s cyber security program and enforcing its cyber security policy.
-(d)	Reporting.  Each Licensee shall submit to the Department a report, prepared by the CISO and presented to the Licensee’s board of directors or equivalent governing body, at least annually, assessing the availability, functionality, and integrity of the Licensee’s electronic systems, identifying relevant cyber risks to the Licensee, assessing the Licensee’s cyber security program, and proposing steps for the redress of any inadequacies identified therein.
-(e)	Audit.  Each Licensee’s cyber security program shall, at a minimum, include audit functions as set forth below.
-(1)	Penetration testing.  Each Licensee shall conduct penetration testing of its electronic systems, at least annually, and vulnerability assessment of those systems, at least quarterly.
-(2)	Audit trail.  Each Licensee shall maintain audit trail systems that:
- 
-(i)	track and maintain data that allows for the complete and accurate reconstruction of all financial transactions and accounting;
-(ii)	protect the integrity of data stored and maintained as part of the audit trail from alteration or tampering;
-(iii)	protect the integrity of hardware from alteration or tampering, including by limiting access permissions to hardware, enclosing hardware in locked cages, and maintaining logs of physical access to hardware that allows for event reconstruction;
-(iv)	log system events including, at minimum, access and alterations made to the audit trail systems by the systems or by an authorized user, and all system administrator functions performed on the systems; and (v)	maintain records produced as part of the audit trail for a period of ten years in accordance with
-the recordkeeping requirements set forth in this Part.
+(1) information security;
 
-(3)	Source code reviews.  Each Licensee shall have an independent, qualified third party conduct a source code review of any internally developed proprietary software used in the Licensee’s business operations, at least annually.
-(f)	Personnel and Intelligence.  Each Licensee shall:
+(2) data governance and classification;
 
-(1)	employ cyber security personnel adequate to manage the Licensee’s cyber security risks and to
+(3) access controls;
+
+(4) business continuity and disaster recovery planning and resources;
+
+(5) capacity and performance planning;
+
+(6) systems operations and availability concerns;
+
+(7) systems and network security;
+
+(8) systems and application development and quality assurance;
+
+(9) physical security and environmental controls;
+
+(10) customer data privacy;
+
+(11) vendor and third-party service provider management;
+
+(12) monitoring and implementing changes to core protocols not directly controlled by the Licensee, as applicable; and
+
+(13) incident response.
+
+(c) Chief Information Security Officer. Each Licensee shall designate a qualified employee to serve as the Licensee’s Chief Information Security Officer (“CISO”) responsible for overseeing and implementing the Licensee’s cyber security program and enforcing its cyber security policy.
+
+(d) Reporting. Each Licensee shall submit to the Department a report, prepared by the CISO and presented to the Licensee’s board of directors or equivalent governing body, at least annually, assessing the availability, functionality, and integrity of the Licensee’s electronic systems, identifying relevant cyber risks to the Licensee, assessing the Licensee’s cyber security program, and proposing steps for the redress of any inadequacies identified therein.
+
+(e) Audit. Each Licensee’s cyber security program shall, at a minimum, include audit functions as set forth below.
+
+(1) Penetration testing. Each Licensee shall conduct penetration testing of its electronic systems, at least annually, and vulnerability assessment of those systems, at least quarterly.
+
+(2) Audit trail. Each Licensee shall maintain audit trail systems that:
+
+(i) track and maintain data that allows for the complete and accurate reconstruction of all financial transactions and accounting;
+
+(ii) protect the integrity of data stored and maintained as part of the audit trail from alteration or tampering;
+
+(iii) protect the integrity of hardware from alteration or tampering, including by limiting access permissions to hardware, enclosing hardware in locked cages, and maintaining logs of physical access to hardware that allows for event reconstruction;
+
+(iv) log system events including, at minimum, access and alterations made to the audit trail systems by the systems or by an authorized user, and all system administrator functions performed on the systems; and
+
+(v) maintain records produced as part of the audit trail for a period of ten years in accordance with the recordkeeping requirements set forth in this Part.
+
+(3) Source code reviews. Each Licensee shall have an independent, qualified third party conduct a source code review of any internally developed proprietary software used in the Licensee’s business operations, at least annually.
+
+(f) Personnel and Intelligence. Each Licensee shall:
+
+(1) employ cyber security personnel adequate to manage the Licensee’s cyber security risks and to
 
 perform the core cyber security functions specified in Subsection 200.16(a)(1)-(5);
 
-(2)	provide and require cyber security personnel to attend regular cyber security update and training sessions; and
-(3)	require key cyber security personnel to take steps to stay abreast of changing cyber security threats and countermeasures.
+(2) provide and require cyber security personnel to attend regular cyber security update and training sessions; and
 
+(3) require key cyber security personnel to take steps to stay abreast of changing cyber security threats and countermeasures.
 
-
-Statutory Authority:  Financial Services Law, sections 102, 202, 301, and 302
+Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302
  
 <a name="businesscontinuity"/>
 ## Section 200.17  Business continuity and disaster recovery
 
+(a) Each Licensee shall establish and maintain a written business continuity and disaster recovery
 
+(“BCDR”) plan reasonably designed to ensure the availability and functionality of the Licensee’s services in the event of an emergency or other disruption to the Licensee’s normal business activities. The BCDR plan, at minimum, shall:
 
+(1) identify documents, data, facilities, infrastructure, personnel, and competencies essential to the continued operations of the Licensee’s business;
 
-(a)	Each Licensee shall establish and maintain a written business continuity and disaster recovery
+(2) identify the supervisory personnel responsible for implementing each aspect of the BCDR plan;
 
-(“BCDR”) plan reasonably designed to ensure the availability and functionality of the Licensee’s services in the event of an emergency or other disruption to the Licensee’s normal business activities.  The BCDR plan, at minimum, shall:
-(1)	identify documents, data, facilities, infrastructure, personnel, and competencies essential to the continued operations of the Licensee’s business;
-(2)	identify the supervisory personnel responsible for implementing each aspect of the BCDR plan; (3)	include a plan to communicate with essential Persons in the event of an emergency or other
-disruption to the operations of the Licensee, including employees, counterparties, regulatory authorities, data and communication providers, disaster recovery specialists, and any other Persons essential to the recovery of documentation and data and the resumption of operations;
-(4)	include procedures for the maintenance of back-up facilities, systems, and infrastructure as well as alternative staffing and other resources to enable the timely recovery of data and documentation and to resume operations as soon as reasonably possible following a disruption to normal business activities;
-(5)	include procedures for the back-up or copying, with sufficient frequency, of documents and data essential to the operations of the Licensee and storing of the information off site; and
-(6)       identify third parties that are necessary to the continued operations of the Licensee’s business. (b)       Each Licensee shall distribute a copy of the BCDR plan, and any revisions thereto, to all relevant employees and shall maintain copies of the BCDR plan at one or more accessible off-site locations.
-(c)	Each Licensee shall provide relevant training to all employees responsible for implementing the BCDR
+(3) include a plan to communicate with essential Persons in the event of an emergency or other disruption to the operations of the Licensee, including employees, counterparties, regulatory authorities, data and communication providers, disaster recovery specialists, and any other Persons essential to the recovery of documentation and data and the resumption of operations;
+
+(4) include procedures for the maintenance of back-up facilities, systems, and infrastructure as well as alternative staffing and other resources to enable the timely recovery of data and documentation and to resume operations as soon as reasonably possible following a disruption to normal business activities;
+
+(5) include procedures for the back-up or copying, with sufficient frequency, of documents and data essential to the operations of the Licensee and storing of the information off site; and
+
+(6) identify third parties that are necessary to the continued operations of the Licensee’s business.
+
+(b) Each Licensee shall distribute a copy of the BCDR plan, and any revisions thereto, to all relevant employees and shall maintain copies of the BCDR plan at one or more accessible off-site locations.
+
+(c) Each Licensee shall provide relevant training to all employees responsible for implementing the BCDR
 
 plan regarding their roles and responsibilities.
- 
-(d)	Each Licensee shall promptly notify the superintendent of any emergency or other disruption to its operations that may affect its ability to fulfill regulatory obligations or that may have a significant adverse effect on the Licensee, its counterparties, or the market.
-(e)	The BCDR plan shall be tested at least annually by qualified, independent internal personnel or a qualified third party, and revised accordingly.
 
+(d) Each Licensee shall promptly notify the superintendent of any emergency or other disruption to its operations that may affect its ability to fulfill regulatory obligations or that may have a significant adverse effect on the Licensee, its counterparties, or the market.
 
+(e) The BCDR plan shall be tested at least annually by qualified, independent internal personnel or a qualified third party, and revised accordingly.
 
-Statutory Authority:  Financial Services Law, sections 102, 202, 301, and 302
+Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302
  
 <a name="advertisingandmarketing"/>
 ## Section 200.18  Advertising and marketing

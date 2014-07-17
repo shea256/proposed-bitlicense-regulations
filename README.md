@@ -284,72 +284,87 @@ Statutory authority: Financial Services Law, sections 102, 202, 301, and 302
 <a name="booksandrecords"/>
 ## Section 200.12  Books and records
 
-(a)	Each Licensee shall, in connection with its Virtual Currency Business Activity, make, keep, and preserve all of its books and records in their original form or native file format for a period of at least ten years from the date of their creation and in a condition that will allow the superintendent to determine whether the Licensee is complying with all applicable laws, rules, and regulations.  The books and records maintained by each Licensee shall, without limitation, include:
-(1)	for each transaction, the amount, date, and precise time of the transaction, any payment instructions, the total amount of fees and charges received and paid to, by, or on behalf of the Licensee, and the names, account numbers, and physical addresses of the parties to the transaction;
-(2)	a general ledger containing all assets, liabilities, capital, income, expense accounts, and profit and loss accounts;
-(3)	bank statements and bank reconciliation records;
+(a) Each Licensee shall, in connection with its Virtual Currency Business Activity, make, keep, and preserve all of its books and records in their original form or native file format for a period of at least ten years from the date of their creation and in a condition that will allow the superintendent to determine whether the Licensee is complying with all applicable laws, rules, and regulations. The books and records maintained by each Licensee shall, without limitation, include:
 
-(4)	any statements or valuations sent or provided to customers and counterparties;
+(1) for each transaction, the amount, date, and precise time of the transaction, any payment instructions, the total amount of fees and charges received and paid to, by, or on behalf of the Licensee, and the names, account numbers, and physical addresses of the parties to the transaction;
 
-(5)	records or minutes of meetings of the board of directors or an equivalent governing body;
+(2) a general ledger containing all assets, liabilities, capital, income, expense accounts, and profit and loss accounts;
 
-(6)	records demonstrating compliance with applicable state and federal anti-money laundering laws, rules, and regulations, including customer identification and verification documents, records linking customers to their respective accounts and balances, and a record of all compliance breaches;
-(7)	communications and documentation related to investigations of customer complaints and transaction error resolution or concerning facts giving rise to possible violations of laws, rules, or regulations;
-(8)	all other records required to be maintained in accordance with this Part; and
+(3) bank statements and bank reconciliation records;
 
-(9)	all other records as the superintendent may require.
+(4) any statements or valuations sent or provided to customers and counterparties;
 
-(b)	Each Licensee shall provide the Department, upon request, immediate access to all facilities, books, records, documents, or other information maintained by the Licensee or its Affiliates, wherever located.
- 
-(c)	Records of non-completed, outstanding, or inactive Virtual Currency accounts or transactions shall be maintained for at least five years after the time when any such Virtual Currency has been deemed, under the Abandoned Property Law, to be abandoned property.
+(5) records or minutes of meetings of the board of directors or an equivalent governing body;
 
+(6) records demonstrating compliance with applicable state and federal anti-money laundering laws, rules, and regulations, including customer identification and verification documents, records linking customers to their respective accounts and balances, and a record of all compliance breaches;
 
+(7) communications and documentation related to investigations of customer complaints and transaction error resolution or concerning facts giving rise to possible violations of laws, rules, or regulations;
 
-Statutory authority:  Financial Services Law, sections 102, 202, 301, 302, and 306
- 
+(8) all other records required to be maintained in accordance with this Part; and
+
+(9) all other records as the superintendent may require.
+
+(b) Each Licensee shall provide the Department, upon request, immediate access to all facilities, books, records, documents, or other information maintained by the Licensee or its Affiliates, wherever located.
+
+(c) Records of non-completed, outstanding, or inactive Virtual Currency accounts or transactions shall be maintained for at least five years after the time when any such Virtual Currency has been deemed, under the Abandoned Property Law, to be abandoned property.
+
+Statutory authority: Financial Services Law, sections 102, 202, 301, 302, and 306
+
 <a name="examinations"/>
 ## Section 200.13  Examinations
 
-(a)	Each Licensee shall permit and assist the superintendent to examine the Licensee whenever in the superintendent’s judgment such examination is necessary or advisable, but not less than once every two calendar years, including, without limitation, to determine:
-(1)	the financial condition of the Licensee;
+(a) Each Licensee shall permit and assist the superintendent to examine the Licensee whenever in the superintendent’s judgment such examination is necessary or advisable, but not less than once every two calendar years, including, without limitation, to determine:
 
-(2)	the safety and soundness of the conduct of its business; (3)	the policies of its management;
-(4)	whether the requirements of laws, rules, and regulations have been complied with in the administration of its affairs; and
-(5)       such other matters as the superintendent may determine, including, but not limited to, any activities of the Licensee outside the State of New York if in the opinion of the superintendent such activities may affect the Licensee's business involving New York or New York Residents.
-(b)	Each Licensee shall permit and assist the superintendent at any time to examine all of the Licensee’s
+(1) the financial condition of the Licensee;
 
-books, records, accounts, documents, and other information.
+(2) the safety and soundness of the conduct of its business;
 
-(c)	Each Licensee shall permit and assist the superintendent to make such special investigations as the superintendent shall deem necessary to determine whether a Licensee has violated any provision of the applicable laws, rules, or regulations and to the extent necessary shall permit and assist the superintendent to examine all relevant facilities, books, records, accounts, documents, and other information.
-(d)	For the purpose of determining the financial condition of the Licensee or its safety and soundness practices, the Licensee shall permit and assist the superintendent, when in the superintendent’s judgment it is necessary or advisable, to examine an Affiliate of the Licensee.
+(3) the policies of its management;
 
+(4) whether the requirements of laws, rules, and regulations have been complied with in the administration of its affairs; and
 
+(5) such other matters as the superintendent may determine, including, but not limited to, any activities of the Licensee outside the State of New York if in the opinion of the superintendent such activities may affect the Licensee's business involving New York or New York Residents.
 
-Statutory authority:  Financial Services Law, sections 102, 202, 301, and 302
+(b) Each Licensee shall permit and assist the superintendent at any time to examine all of the Licensee’s books, records, accounts, documents, and other information.
+
+(c) Each Licensee shall permit and assist the superintendent to make such special investigations as the superintendent shall deem necessary to determine whether a Licensee has violated any provision of the applicable laws, rules, or regulations and to the extent necessary shall permit and assist the superintendent to examine all relevant facilities, books, records, accounts, documents, and other information.
+
+(d) For the purpose of determining the financial condition of the Licensee or its safety and soundness practices, the Licensee shall permit and assist the superintendent, when in the superintendent’s judgment it is necessary or advisable, to examine an Affiliate of the Licensee.
+
+Statutory authority: Financial Services Law, sections 102, 202, 301, and 302
  
 <a name="reportsandfinancialdisclosures"/>
 ## Section 200.14  Reports and financial disclosures
 
-(a)	Each Licensee shall submit to the superintendent quarterly financial statements within 45 days following the close of the Licensee’s fiscal quarter in the form, and containing such information, as the superintendent shall prescribe, including without limitation, the following information:
-(1)	a statement of the financial condition of the Licensee, including a complete balance sheet, income statement, profit and loss statement, statement of retained earnings, statement of net liquid assets, statement of net worth, statement of cash flows, and statement of change in ownership equity;
-(2)	a statement demonstrating compliance with any financial requirements established under this Part; (3)	financial projections and strategic business plans;
-(4)	a list of all off-balance sheet items;
+(a) Each Licensee shall submit to the superintendent quarterly financial statements within 45 days following the close of the Licensee’s fiscal quarter in the form, and containing such information, as the superintendent shall prescribe, including without limitation, the following information:
 
-(5)	a chart of accounts, including a description of each account; and
+(1) a statement of the financial condition of the Licensee, including a complete balance sheet, income statement, profit and loss statement, statement of retained earnings, statement of net liquid assets, statement of net worth, statement of cash flows, and statement of change in ownership equity;
 
-(6)	a report of permissible investments by the Licensee as permitted under this Part.
+(2) a statement demonstrating compliance with any financial requirements established under this Part;
 
-(b)	Each Licensee shall submit audited annual financial statements, prepared in accordance with generally accepted accounting principles, together with an opinion of an independent certified public accountant and an evaluation by such accountant of the accounting procedures and internal controls of the Licensee within one hundred and twenty days of its fiscal year end.  All such annual financial statements shall include:
-(1)	a statement of management’s responsibilities for preparing the Licensee’s annual financial statements, establishing and maintaining adequate internal controls and procedures for financial reporting, and complying with all applicable laws, rules, and regulations;
-(2)	an assessment by management of the Licensee’s compliance with such applicable laws, rules, and regulations during the fiscal year covered by the financial statements, including management’s conclusion as to whether the Licensee has complied with those laws, rules, and regulations during such period; and
- 
-(3)	certification of the financial statements by an officer or director of the Licensee attesting to the truth and correctness of those statements.
-(c)	Each Licensee shall notify the superintendent in writing of any criminal action or insolvency proceeding against the Licensee or any of its directors, Principal Stockholders, Principal Officers, and Principal Beneficiaries, as applicable, immediately after the commencement of any such action or proceeding.
-(d)	Each Licensee shall notify the superintendent in writing of any proposed change to the methodology used to calculate the value of Virtual Currency in Fiat Currency that was submitted to the Department in accordance with Section 200.4 or this Subsection.
-(e)	Each Licensee shall submit a report to the superintendent immediately upon the discovery of any violation or breach of law, rule, or regulation related to the conduct of activity licensed under this Part.
-(f)	Each Licensee shall make additional special reports to the superintendent, at such times and in such form, as the superintendent shall prescribe.
+(3) financial projections and strategic business plans;
 
+(4) a list of all off-balance sheet items;
 
+(5) a chart of accounts, including a description of each account; and
+
+(6) a report of permissible investments by the Licensee as permitted under this Part.
+
+(b) Each Licensee shall submit audited annual financial statements, prepared in accordance with generally accepted accounting principles, together with an opinion of an independent certified public accountant and an evaluation by such accountant of the accounting procedures and internal controls of the Licensee within one hundred and twenty days of its fiscal year end. All such annual financial statements shall include:
+
+(1) a statement of management’s responsibilities for preparing the Licensee’s annual financial statements, establishing and maintaining adequate internal controls and procedures for financial reporting, and complying with all applicable laws, rules, and regulations;
+
+(2) an assessment by management of the Licensee’s compliance with such applicable laws, rules, and regulations during the fiscal year covered by the financial statements, including management’s conclusion as to whether the Licensee has complied with those laws, rules, and regulations during such period; and
+
+(3) certification of the financial statements by an officer or director of the Licensee attesting to the truth and correctness of those statements.
+
+(c) Each Licensee shall notify the superintendent in writing of any criminal action or insolvency proceeding against the Licensee or any of its directors, Principal Stockholders, Principal Officers, and Principal Beneficiaries, as applicable, immediately after the commencement of any such action or proceeding.
+
+(d) Each Licensee shall notify the superintendent in writing of any proposed change to the methodology used to calculate the value of Virtual Currency in Fiat Currency that was submitted to the Department in accordance with Section 200.4 or this Subsection.
+
+(e) Each Licensee shall submit a report to the superintendent immediately upon the discovery of any violation or breach of law, rule, or regulation related to the conduct of activity licensed under this Part.
+
+(f) Each Licensee shall make additional special reports to the superintendent, at such times and in such form, as the superintendent shall prescribe.
 
 Statutory authority: Financial Services Law, sections 102, 202, 301, 302, and 306
  

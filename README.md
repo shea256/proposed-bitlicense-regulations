@@ -1,7 +1,7 @@
 The Proposed BitLicense Regulations
 ==========
 
-[view/annotate on Genius.com](http://news.genius.com/New-york-department-of-financial-services-proposed-bitlicense-regulations-annotated)
+[view/annotate on genius.com](http://news.genius.com/New-york-department-of-financial-services-proposed-bitlicense-regulations-annotated)
 
 ### NEW YORK STATE DEPARTMENT OF FINANCIAL SERVICES PROPOSED
 

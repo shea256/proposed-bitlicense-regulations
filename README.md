@@ -201,7 +201,7 @@ type of liability;
 
 Statutory Authority:  Financial Services Law, sections 102, 202, 301, and 302
  
-<a name="#"/>
+<a name="custodyandprotection"/>
 Section 200.9  Custody and protection of customer assets
 
 (a)	Each Licensee shall maintain a bond or trust account in United States dollars for the benefit of its customers in such form and amount as is acceptable to the superintendent for the protection of the Licensee’s customers.
@@ -212,8 +212,8 @@ Section 200.9  Custody and protection of customer assets
 
 Statutory Authority:  Financial Services Law, sections 102, 202, 301, and 302
  
-<a name="#"/>
-Section 200.10  Material change to business
+<a name="materialchange"/>
+## Section 200.10  Material change to business
 
 (a)       Each Licensee must obtain the superintendent’s prior written approval for any plan or proposal to introduce or offer a new product, service, or activity, or to make a material change to an existing product, service, or activity, involving New York or New York Residents.
 (b)	A “material change” may occur where:
@@ -228,8 +228,8 @@ Section 200.10  Material change to business
 
 Statutory Authority:  Financial Services Law, sections 102, 202, 301, and 302
  
-<a name="#"/>
-Section 200.11  Change of control; mergers and acquisitions
+<a name="changeofcontrol"/>
+## Section 200.11  Change of control; mergers and acquisitions
 
 (a)	Change of Control.  No action shall be taken, except with the prior written approval of the superintendent, that may result in a change of control of a Licensee.
 (1)	Prior to any change of control, the Person seeking to acquire control of a Licensee shall submit a written application to the superintendent in a form and substance acceptable to the superintendent, including detailed information about the applicant and all directors, Principal Officers, Principal Stockholders, and Principal Beneficiaries of the applicant, as applicable.
@@ -250,8 +250,8 @@ Part.
 
 Statutory authority:  Financial Services Law, sections 102, 202, 301, and 302
  
-<a name="#"/>
-Section 200.12  Books and records
+<a name="booksandrecords"/>
+## Section 200.12  Books and records
 
 (a)	Each Licensee shall, in connection with its Virtual Currency Business Activity, make, keep, and preserve all of its books and records in their original form or native file format for a period of at least ten years from the date of their creation and in a condition that will allow the superintendent to determine whether the Licensee is complying with all applicable laws, rules, and regulations.  The books and records maintained by each Licensee shall, without limitation, include:
 (1)	for each transaction, the amount, date, and precise time of the transaction, any payment instructions, the total amount of fees and charges received and paid to, by, or on behalf of the Licensee, and the names, account numbers, and physical addresses of the parties to the transaction;
@@ -276,8 +276,8 @@ Section 200.12  Books and records
 
 Statutory authority:  Financial Services Law, sections 102, 202, 301, 302, and 306
  
-<a name="#"/>
-Section 200.13  Examinations
+<a name="examinations"/>
+## Section 200.13  Examinations
 
 (a)	Each Licensee shall permit and assist the superintendent to examine the Licensee whenever in the superintendent’s judgment such examination is necessary or advisable, but not less than once every two calendar years, including, without limitation, to determine:
 (1)	the financial condition of the Licensee;
@@ -296,8 +296,8 @@ books, records, accounts, documents, and other information.
 
 Statutory authority:  Financial Services Law, sections 102, 202, 301, and 302
  
-<a name="#"/>
-Section 200.14  Reports and financial disclosures
+<a name="reportandfinancialdisclosures"/>
+## Section 200.14  Reports and financial disclosures
 
 (a)	Each Licensee shall submit to the superintendent quarterly financial statements within 45 days following the close of the Licensee’s fiscal quarter in the form, and containing such information, as the superintendent shall prescribe, including without limitation, the following information:
 (1)	a statement of the financial condition of the Licensee, including a complete balance sheet, income statement, profit and loss statement, statement of retained earnings, statement of net liquid assets, statement of net worth, statement of cash flows, and statement of change in ownership equity;
@@ -322,7 +322,8 @@ Section 200.14  Reports and financial disclosures
 
 Statutory authority: Financial Services Law, sections 102, 202, 301, 302, and 306
  
-<a name="#"/>Section15  Anti-money laundering program
+<a name="antimoneylaundering"/>
+## Section 200.15  Anti-money laundering program
 
 All values in United States dollars referenced herein must be calculated using the methodology to determine the value of Virtual Currency in Fiat Currency that was approved by the Department under this Part.
 (a)	Each Licensee shall conduct an initial risk assessment that will consider legal, compliance, financial, and reputational risks associated with the Licensee’s activities, services, customers, counterparties, and geographic location and shall establish, maintain, and enforce an anti-money laundering program based thereon. The Licensee shall conduct additional assessments on an annual basis, or more frequently as risks change, and shall modify its anti-money laundering program as appropriate to reflect any such changes.
@@ -371,7 +372,8 @@ nature of the foreign business, the type and purpose of the activity, and the an
 
 Statutory authority:  Financial Services Law, sections 201, 202, 302, and 404
  
-<a name="#"/>Section16  Cyber security program
+<a name="cybersecurity"/>
+Section 200.16  Cyber security program
 
 (a)	Generally.  Each Licensee shall establish and maintain an effective cyber security program to ensure the availability and functionality of the Licensee’s electronic systems and to protect those systems and any sensitive data stored on those systems from unauthorized access, use, or tampering.  The cyber security program shall be designed to perform the following five core cyber security functions:
 (1)	identify internal and external cyber risks by, at a minimum, identifying the information stored on the Licensee’s systems, the sensitivity of such information, and how and by whom such information may be accessed;
@@ -424,7 +426,8 @@ perform the core cyber security functions specified in Subsection 200.16(a)(1)-(
 
 Statutory Authority:  Financial Services Law, sections 102, 202, 301, and 302
  
-<a name="#"/>Section17  Business continuity and disaster recovery
+<a name="businesscontinuity"/>
+## Section 200.17  Business continuity and disaster recovery
 
 
 
@@ -449,7 +452,8 @@ plan regarding their roles and responsibilities.
 
 Statutory Authority:  Financial Services Law, sections 102, 202, 301, and 302
  
-<a name="#"/>Section18  Advertising and marketing
+<a name="advertisingandmarketing"/>
+## Section 200.18  Advertising and marketing
 
 (a)	Each Licensee engaged in Virtual Currency Business Activity shall not advertise its products, services, or activities in New York or to New York Residents without including the name of the Licensee and the legend that such Licensee is “Licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.”
 (b)	Each Licensee shall maintain, for examination by the superintendent, all advertising and marketing materials, including but not limited to print media, internet media (including websites), radio and television advertising, road show materials, presentations, and brochures.  Each Licensee shall maintain hard copy, website captures, and audio and video scripts of its advertising and marketing materials, as applicable.
@@ -460,7 +464,8 @@ Statutory Authority:  Financial Services Law, sections 102, 202, 301, and 302
 
 Statutory authority:  Financial Services Law, sections 102, 202, 301, and 302
  
-<a name="#"/>Section19  Consumer protection
+<a name="consumerprotection"/>
+## Section 200.19  Consumer protection
 
 (a)	Disclosure of material risks.  As part of establishing a relationship with a customer, and prior to entering into an initial transaction for, on behalf of, or with such customer, each Licensee shall disclose in clear, conspicuous, and legible writing in the English language and in any other predominant language spoken by the customers of the Licensee, all material risks associated with its products, services, and activities and Virtual Currency generally, including at a minimum, the following:
 (1)	virtual currency is not legal tender, is not backed by the government, and accounts and value balances are not subject to Federal Deposit Insurance Corporation or Securities Investor Protection Corporation protections;
@@ -522,7 +527,8 @@ insurance policy maintained by the Licensee. Additionally, each Licensee shall t
 
 Statutory Authority:  Financial Services Law, sections 102, 201, 202, 301, 302, 306, and 404
  
-<a name="#"/>Section20  Complaints
+<a name="complaints"/>
+## Section 200.20  Complaints
 
 (a)	Each Licensee shall establish and maintain written policies and procedures to fairly and timely resolve complaints.
 (b)	Each Licensee must provide, in a clear and conspicuous manner, on its website(s), in any physical location(s), and in any other location as the superintendent may prescribe, the following disclosures:
@@ -545,7 +551,8 @@ procedures within seven days.
 
 Statutory authority:  Financial Services Law, sections 102, 201, 202, 301, and 302
  
-<a name="#"/>Section21  Transitional Period
+<a name="transitionalperiod"/>
+## Section 200.21  Transitional Period
 
 A Person already engaged in Virtual Currency Business Activity must apply for a license in accordance with this Part within 45 days of the effective date of this regulation.  In doing so, such applicant shall be deemed in compliance with the licensure requirements of this Part until it has been notified by the superintendent that its application has been denied, in which case it shall immediately cease operation in this state.  Any Person engaged in Virtual Currency Business Activity that fails to submit an application for a license within 45 days of the effective date of this regulation shall be deemed to be conducting unlicensed Virtual Currency Business Activity.
 

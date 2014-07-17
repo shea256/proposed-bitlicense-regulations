@@ -103,64 +103,69 @@ Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302
 <a name="license"/>
 ## Section 200.3  License
 
-(a)	License required.  No Person shall, without a license obtained from the superintendent as provided in this Part, engage in any Virtual Currency Business Activity.
-(b)	Unlicensed agents prohibited.  Each Licensee is prohibited from conducting any Virtual Currency
+(a) License required. No Person shall, without a license obtained from the superintendent as provided in this Part, engage in any Virtual Currency Business Activity.
 
-Business Activity through an agent or agency arrangement when the agent is not a Licensee.
+(b) Unlicensed agents prohibited. Each Licensee is prohibited from conducting any Virtual Currency Business Activity through an agent or agency arrangement when the agent is not a Licensee.
 
-(c)	Exemption from licensing requirements. The following Persons are exempt from the licensing requirements otherwise applicable under this Part:
-(1)	Persons that are chartered under the New York Banking Law to conduct exchange services and are approved by the superintendent to engage in Virtual Currency Business Activity; and
-(2)	merchants and consumers that utilize Virtual Currency solely for the purchase or sale of goods or services.
+(c) Exemption from licensing requirements. The following Persons are exempt from the licensing requirements otherwise applicable under this Part:
 
+(1) Persons that are chartered under the New York Banking Law to conduct exchange services and are approved by the superintendent to engage in Virtual Currency Business Activity; and
 
+(2) merchants and consumers that utilize Virtual Currency solely for the purchase or sale of goods or services.
 
-Statutory Authority:  Financial Services Law, sections 102, 201, 301, and 302
- 
+Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302
+
 <a name="application"/>
 ## Section 200.4  Application
 
-(a)	Application for a license required under this Part shall be in writing, under oath, and in a form prescribed by the superintendent, and shall contain the following:
-(1)	the exact name of the applicant, including any doing business as (DBA) name, the form of organization, the date of organization, and the jurisdiction where organized or incorporated;
-(2)	a list of all of the applicant’s Affiliates and an organization chart illustrating the relationship among
+(a) Application for a license required under this Part shall be in writing, under oath, and in a form prescribed by the superintendent, and shall contain the following:
 
-the applicant and such Affiliates;
+(1) the exact name of the applicant, including any doing business as (DBA) name, the form of organization, the date of organization, and the jurisdiction where organized or incorporated;
 
-(3)	a list of, and detailed biographical information for, each individual applicant and each director, Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, including such individual’s name, physical and mailing addresses, and information and documentation regarding their personal history, experience, and qualification, which shall be accompanied by a form of authority, executed by such individual, to release information to the Department;
-(4)	a background report prepared by an independent investigatory agency acceptable to the superintendent for each individual applicant, and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable;
-(5)	for each individual applicant, and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, and for all individuals to be employed by the applicant:  (i) a set of completed fingerprints, or a receipt indicating the vendor (which vendor must be acceptable to the superintendent) at which, and the date when, the fingerprints were taken, for submission to the State Division of Criminal Justice Services and the Federal Bureau of Investigation; (ii) if applicable, such processing fees as prescribed by the superintendent; and (iii) two portrait-style photographs of the individuals measuring not more than two inches by two inches;
- 
-(6)       an organization chart of the applicant and its management structure, including its Principal Officers or senior management, indicating lines of authority and the allocation of duties among its Principal Officers or senior management;
-(7)	a current financial statement for the applicant and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, and a projected pro forma balance sheet and income and expense statement for the next year of the applicant’s operation;
-(8)	a description of the proposed, current, and historical business of the applicant, including detail on the products and services provided and to be provided, all associated website addresses, the jurisdictions in which the applicant is engaged in business, the principal place of business, the primary market of operation, the projected customer base, any specific marketing targets, and the physical address of any operation in New York;
-(9)	details of all banking arrangements;
+(2) a list of all of the applicant’s Affiliates and an organization chart illustrating the relationship among the applicant and such Affiliates;
 
-(10)	all written policies and procedures, including those required by this Part;
+(3) a list of, and detailed biographical information for, each individual applicant and each director, Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, including such individual’s name, physical and mailing addresses, and information and documentation regarding their personal history, experience, and qualification, which shall be accompanied by a form of authority, executed by such individual, to release information to the Department;
 
-(11)	an affidavit describing any administrative, civil, or criminal action, litigation, or proceeding before any governmental agency, court, or arbitration tribunal and any existing, pending, or threatened action, litigation, or proceeding against the applicant or any of its directors, Principal Officers, Principal Stockholders, and Principal Beneficiaries, as applicable, including the names of the parties, the nature of the proceeding, and the current status of the proceeding;
-(12)	if applicable, a copy of any insurance policies maintained for the benefit of the applicant, its directors or officers, or its customers;
-(13)	an explanation of the methodologies used to calculate the value of Virtual Currency in Fiat
+(4) a background report prepared by an independent investigatory agency acceptable to the superintendent for each individual applicant, and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable;
 
-Currency; and
+(5) for each individual applicant, and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, and for all individuals to be employed by the applicant:
 
-(14)	such other additional information as the superintendent may require.
- 
-(b)	As part of such application, the applicant shall demonstrate that it will be compliant with all of the requirements of this Part upon licensing.
-(c)	The superintendent may permit that any application for a license under this Part, or any other submission required by this Part, be made or executed by electronic means.
+(i) a set of completed fingerprints, or a receipt indicating the vendor (which vendor must be acceptable to the superintendent) at which, and the date when, the fingerprints were taken, for submission to the State Division of Criminal Justice Services and the Federal Bureau of Investigation;
 
+(ii) if applicable, such processing fees as prescribed by the superintendent; and
 
+(iii) two portrait-style photographs of the individuals measuring not more than two inches by two inches;
+
+(6) an organization chart of the applicant and its management structure, including its Principal Officers or senior management, indicating lines of authority and the allocation of duties among its Principal Officers or senior management;
+
+(7) a current financial statement for the applicant and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, and a projected pro forma balance sheet and income and expense statement for the next year of the applicant’s operation;
+
+(8) a description of the proposed, current, and historical business of the applicant, including detail on the products and services provided and to be provided, all associated website addresses, the jurisdictions in which the applicant is engaged in business, the principal place of business, the primary market of operation, the projected customer base, any specific marketing targets, and the physical address of any operation in New York;
+
+(9) details of all banking arrangements;
+
+(10) all written policies and procedures, including those required by this Part;
+
+(11) an affidavit describing any administrative, civil, or criminal action, litigation, or proceeding before any governmental agency, court, or arbitration tribunal and any existing, pending, or threatened action, litigation, or proceeding against the applicant or any of its directors, Principal Officers, Principal Stockholders, and Principal Beneficiaries, as applicable, including the names of the parties, the nature of the proceeding, and the current status of the proceeding;
+
+(12) if applicable, a copy of any insurance policies maintained for the benefit of the applicant, its directors or officers, or its customers;
+
+(13) an explanation of the methodologies used to calculate the value of Virtual Currency in Fiat Currency; and
+
+(14) such other additional information as the superintendent may require.
+
+(b) As part of such application, the applicant shall demonstrate that it will be compliant with all of the requirements of this Part upon licensing.
+
+(c) The superintendent may permit that any application for a license under this Part, or any other submission required by this Part, be made or executed by electronic means.
 
 Statutory authority: Financial Services Law, sections 102, 201, 202, 301, and 302
  
 <a name="applicationfees"></a>
 ##Section 200.5  Application fees
 
-As part of an application for licensing under this Part, each applicant must submit an initial application fee, in an amount prescribed by the superintendent, to cover the cost of processing the application, reviewing application materials, and investigating the financial condition and responsibility, financial and business experience, and character and general fitness of the applicant.  If the application is denied or withdrawn, such fee shall not be refunded.  Each Licensee may be required to pay fees to the Department to process additional applications related to the license.
+As part of an application for licensing under this Part, each applicant must submit an initial application fee, in an amount prescribed by the superintendent, to cover the cost of processing the application, reviewing application materials, and investigating the financial condition and responsibility, financial and business experience, and character and general fitness of the applicant. If the application is denied or withdrawn, such fee shall not be refunded. Each Licensee may be required to pay fees to the Department to process additional applications related to the license.
 
-
-
-Statutory authority:  Financial Services Law, sections 202, 206, 301, 302, and 304-a; State Administrative
-
-Procedures Act, section 102
+Statutory authority: Financial Services Law, sections 202, 206, 301, 302, and 304-a; State Administrative Procedures Act, section 102
  
 <a name="actionbysuperintendent"></a>
 ## Section 200.6  Action by superintendent

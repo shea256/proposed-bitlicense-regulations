@@ -46,111 +46,111 @@ This Part contains regulations relating to the conduct of business involving Vir
 
 For purposes of this Part only, the following definitions shall apply:
 
-+ (a) Affiliate means any Person that directly or indirectly controls, is controlled by, or is under common control with, another Person;
+##### (a) Affiliate means any Person that directly or indirectly controls, is controlled by, or is under common control with, another Person;
 
-+ (b) Cyber Security Event means any act or attempt, successful or unsuccessful, to gain unauthorized access to, disrupt, or misuse a Licensee’s electronic systems or information stored on such systems;
+##### (b) Cyber Security Event means any act or attempt, successful or unsuccessful, to gain unauthorized access to, disrupt, or misuse a Licensee’s electronic systems or information stored on such systems;
 
-+ (c) Department means the New York State Department of Financial Services;
+##### (c) Department means the New York State Department of Financial Services;
 
-+ (d) Fiat Currency means government-issued currency that is designated as legal tender in its country of issuance through government decree, regulation, or law;
+##### (d) Fiat Currency means government-issued currency that is designated as legal tender in its country of issuance through government decree, regulation, or law;
 
-+ (e) Licensee means any Person duly licensed by the superintendent pursuant to this Part;
+##### (e) Licensee means any Person duly licensed by the superintendent pursuant to this Part;
 
-+ (f) New York means the State of New York;
+##### (f) New York means the State of New York;
 
-+ (g) New York Resident means any Person that resides, is located, has a place of business, or is conducting business in New York;
+##### (g) New York Resident means any Person that resides, is located, has a place of business, or is conducting business in New York;
 
-+ (h) Person means an individual, partnership, corporation, association, joint stock association, trust, or other business combination or entity, however organized;
+##### (h) Person means an individual, partnership, corporation, association, joint stock association, trust, or other business combination or entity, however organized;
 
-+ (i) Principal Officer means an executive officer of an entity, including, but not limited to, the chief executive, financial, operating, and compliance officers, president, general counsel, managing partner, general partner, controlling partner, and trustee, as applicable;
+##### (i) Principal Officer means an executive officer of an entity, including, but not limited to, the chief executive, financial, operating, and compliance officers, president, general counsel, managing partner, general partner, controlling partner, and trustee, as applicable;
 
-+ (j) Principal Stockholder means any Person that directly or indirectly owns, controls, or holds with power to vote ten percent or more of any class of outstanding capital stock of a corporate entity or possesses the power to direct or cause the direction of the management or policies of the entity;
+##### (j) Principal Stockholder means any Person that directly or indirectly owns, controls, or holds with power to vote ten percent or more of any class of outstanding capital stock of a corporate entity or possesses the power to direct or cause the direction of the management or policies of the entity;
 
-+ (k) Principal Beneficiary means any Person entitled to ten percent or more of the benefits of a trust;
+##### (k) Principal Beneficiary means any Person entitled to ten percent or more of the benefits of a trust;
 
-+ (l) Transmission means the transfer, by or through a third party, of Virtual Currency from one Person to another Person, including the transfer from the account or storage repository of one Person to the account or storage repository of another Person;
+##### (l) Transmission means the transfer, by or through a third party, of Virtual Currency from one Person to another Person, including the transfer from the account or storage repository of one Person to the account or storage repository of another Person;
 
-+ (m) Virtual Currency means any type of digital unit that is used as a medium of exchange or a form of digitally stored value or that is incorporated into payment system technology. Virtual Currency shall be broadly construed to include digital units of exchange that
+##### (m) Virtual Currency means any type of digital unit that is used as a medium of exchange or a form of digitally stored value or that is incorporated into payment system technology. Virtual Currency shall be broadly construed to include digital units of exchange that:
 
-    1. have a centralized repository or administrator;
+1. have a centralized repository or administrator;
 
-    2. are decentralized and have no centralized repository or administrator; or
+2. are decentralized and have no centralized repository or administrator; or
 
-    3. may be created or obtained by computing or manufacturing effort. Virtual Currency shall not be construed to include digital units that are used solely within online gaming platforms with no market or application outside of those gaming platforms, nor shall Virtual Currency be construed to include digital units that are used exclusively as part of a customer affinity or rewards program, and can be applied solely as payment for purchases with the issuer and/or other designated merchants, but cannot be converted into, or redeemed for, Fiat Currency;
+3. may be created or obtained by computing or manufacturing effort. Virtual Currency shall not be construed to include digital units that are used solely within online gaming platforms with no market or application outside of those gaming platforms, nor shall Virtual Currency be construed to include digital units that are used exclusively as part of a customer affinity or rewards program, and can be applied solely as payment for purchases with the issuer and/or other designated merchants, but cannot be converted into, or redeemed for, Fiat Currency;
 
-+ (n) Virtual Currency Business Activity means the conduct of any one of the following types of activities involving New York or a New York Resident:
+##### (n) Virtual Currency Business Activity means the conduct of any one of the following types of activities involving New York or a New York Resident:
 
-    1. receiving Virtual Currency for transmission or transmitting the same;
+1. receiving Virtual Currency for transmission or transmitting the same;
 
-    2. securing, storing, holding, or maintaining custody or control of Virtual Currency on behalf of others;
+2. securing, storing, holding, or maintaining custody or control of Virtual Currency on behalf of others;
 
-    3. buying and selling Virtual Currency as a customer business;
+3. buying and selling Virtual Currency as a customer business;
 
-    4. performing retail conversion services, including the conversion or exchange of Fiat Currency or other value into Virtual Currency, the conversion or exchange of Virtual Currency into Fiat Currency or other value, or the conversion or exchange of one form of Virtual Currency into another form of Virtual Currency; or
+4. performing retail conversion services, including the conversion or exchange of Fiat Currency or other value into Virtual Currency, the conversion or exchange of Virtual Currency into Fiat Currency or other value, or the conversion or exchange of one form of Virtual Currency into another form of Virtual Currency; or
 
-    5. controlling, administering, or issuing a Virtual Currency.
+5. controlling, administering, or issuing a Virtual Currency.
 
 *Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302*
 
 <a name="license"/>
 ## Section 200.3  License
 
-+ (a) License required. No Person shall, without a license obtained from the superintendent as provided in this Part, engage in any Virtual Currency Business Activity.
+##### (a) License required. No Person shall, without a license obtained from the superintendent as provided in this Part, engage in any Virtual Currency Business Activity.
 
-+ (b) Unlicensed agents prohibited. Each Licensee is prohibited from conducting any Virtual Currency Business Activity through an agent or agency arrangement when the agent is not a Licensee.
+##### (b) Unlicensed agents prohibited. Each Licensee is prohibited from conducting any Virtual Currency Business Activity through an agent or agency arrangement when the agent is not a Licensee.
 
-+ (c) Exemption from licensing requirements. The following Persons are exempt from the licensing requirements otherwise applicable under this Part:
+##### (c) Exemption from licensing requirements. The following Persons are exempt from the licensing requirements otherwise applicable under this Part:
 
-+ (1) Persons that are chartered under the New York Banking Law to conduct exchange services and are approved by the superintendent to engage in Virtual Currency Business Activity; and
+1. Persons that are chartered under the New York Banking Law to conduct exchange services and are approved by the superintendent to engage in Virtual Currency Business Activity; and
 
-+ (2) merchants and consumers that utilize Virtual Currency solely for the purchase or sale of goods or services.
+2. merchants and consumers that utilize Virtual Currency solely for the purchase or sale of goods or services.
 
 *Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302*
 
 <a name="application"/>
 ## Section 200.4  Application
 
-(a) Application for a license required under this Part shall be in writing, under oath, and in a form prescribed by the superintendent, and shall contain the following:
+##### (a) Application for a license required under this Part shall be in writing, under oath, and in a form prescribed by the superintendent, and shall contain the following:
 
-(1) the exact name of the applicant, including any doing business as (DBA) name, the form of organization, the date of organization, and the jurisdiction where organized or incorporated;
+1. the exact name of the applicant, including any doing business as (DBA) name, the form of organization, the date of organization, and the jurisdiction where organized or incorporated;
 
-(2) a list of all of the applicant’s Affiliates and an organization chart illustrating the relationship among the applicant and such Affiliates;
+2. a list of all of the applicant’s Affiliates and an organization chart illustrating the relationship among the applicant and such Affiliates;
 
-(3) a list of, and detailed biographical information for, each individual applicant and each director, Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, including such individual’s name, physical and mailing addresses, and information and documentation regarding their personal history, experience, and qualification, which shall be accompanied by a form of authority, executed by such individual, to release information to the Department;
+3. a list of, and detailed biographical information for, each individual applicant and each director, Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, including such individual’s name, physical and mailing addresses, and information and documentation regarding their personal history, experience, and qualification, which shall be accompanied by a form of authority, executed by such individual, to release information to the Department;
 
-(4) a background report prepared by an independent investigatory agency acceptable to the superintendent for each individual applicant, and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable;
+4. a background report prepared by an independent investigatory agency acceptable to the superintendent for each individual applicant, and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable;
 
-(5) for each individual applicant, and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, and for all individuals to be employed by the applicant:
+5. for each individual applicant, and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, and for all individuals to be employed by the applicant:
 
-(i) a set of completed fingerprints, or a receipt indicating the vendor (which vendor must be acceptable to the superintendent) at which, and the date when, the fingerprints were taken, for submission to the State Division of Criminal Justice Services and the Federal Bureau of Investigation;
+    1. a set of completed fingerprints, or a receipt indicating the vendor (which vendor must be acceptable to the superintendent) at which, and the date when, the fingerprints were taken, for submission to the State Division of Criminal Justice Services and the Federal Bureau of Investigation;
 
-(ii) if applicable, such processing fees as prescribed by the superintendent; and
+    2. if applicable, such processing fees as prescribed by the superintendent; and
 
-(iii) two portrait-style photographs of the individuals measuring not more than two inches by two inches;
+    3. two portrait-style photographs of the individuals measuring not more than two inches by two inches;
 
-(6) an organization chart of the applicant and its management structure, including its Principal Officers or senior management, indicating lines of authority and the allocation of duties among its Principal Officers or senior management;
+6. an organization chart of the applicant and its management structure, including its Principal Officers or senior management, indicating lines of authority and the allocation of duties among its Principal Officers or senior management;
 
-(7) a current financial statement for the applicant and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, and a projected pro forma balance sheet and income and expense statement for the next year of the applicant’s operation;
+7. a current financial statement for the applicant and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, and a projected pro forma balance sheet and income and expense statement for the next year of the applicant’s operation;
 
-(8) a description of the proposed, current, and historical business of the applicant, including detail on the products and services provided and to be provided, all associated website addresses, the jurisdictions in which the applicant is engaged in business, the principal place of business, the primary market of operation, the projected customer base, any specific marketing targets, and the physical address of any operation in New York;
+8. a description of the proposed, current, and historical business of the applicant, including detail on the products and services provided and to be provided, all associated website addresses, the jurisdictions in which the applicant is engaged in business, the principal place of business, the primary market of operation, the projected customer base, any specific marketing targets, and the physical address of any operation in New York;
 
-(9) details of all banking arrangements;
+9. details of all banking arrangements;
 
-(10) all written policies and procedures, including those required by this Part;
+10. all written policies and procedures, including those required by this Part;
 
-(11) an affidavit describing any administrative, civil, or criminal action, litigation, or proceeding before any governmental agency, court, or arbitration tribunal and any existing, pending, or threatened action, litigation, or proceeding against the applicant or any of its directors, Principal Officers, Principal Stockholders, and Principal Beneficiaries, as applicable, including the names of the parties, the nature of the proceeding, and the current status of the proceeding;
+11. an affidavit describing any administrative, civil, or criminal action, litigation, or proceeding before any governmental agency, court, or arbitration tribunal and any existing, pending, or threatened action, litigation, or proceeding against the applicant or any of its directors, Principal Officers, Principal Stockholders, and Principal Beneficiaries, as applicable, including the names of the parties, the nature of the proceeding, and the current status of the proceeding;
 
-(12) if applicable, a copy of any insurance policies maintained for the benefit of the applicant, its directors or officers, or its customers;
+12. if applicable, a copy of any insurance policies maintained for the benefit of the applicant, its directors or officers, or its customers;
 
-(13) an explanation of the methodologies used to calculate the value of Virtual Currency in Fiat Currency; and
+13. an explanation of the methodologies used to calculate the value of Virtual Currency in Fiat Currency; and
 
-(14) such other additional information as the superintendent may require.
+14. such other additional information as the superintendent may require.
 
-(b) As part of such application, the applicant shall demonstrate that it will be compliant with all of the requirements of this Part upon licensing.
+##### (b) As part of such application, the applicant shall demonstrate that it will be compliant with all of the requirements of this Part upon licensing.
 
-(c) The superintendent may permit that any application for a license under this Part, or any other submission required by this Part, be made or executed by electronic means.
+##### (c) The superintendent may permit that any application for a license under this Part, or any other submission required by this Part, be made or executed by electronic means.
 
-Statutory authority: Financial Services Law, sections 102, 201, 202, 301, and 302
+*Statutory authority: Financial Services Law, sections 102, 201, 202, 301, and 302*
  
 <a name="applicationfees"></a>
 ##Section 200.5  Application fees

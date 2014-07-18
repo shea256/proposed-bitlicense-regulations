@@ -155,152 +155,152 @@ For purposes of this Part only, the following definitions shall apply:
 <a name="applicationfees"></a>
 ##Section 200.5  Application fees
 
-As part of an application for licensing under this Part, each applicant must submit an initial application fee, in an amount prescribed by the superintendent, to cover the cost of processing the application, reviewing application materials, and investigating the financial condition and responsibility, financial and business experience, and character and general fitness of the applicant. If the application is denied or withdrawn, such fee shall not be refunded. Each Licensee may be required to pay fees to the Department to process additional applications related to the license.
+##### As part of an application for licensing under this Part, each applicant must submit an initial application fee, in an amount prescribed by the superintendent, to cover the cost of processing the application, reviewing application materials, and investigating the financial condition and responsibility, financial and business experience, and character and general fitness of the applicant. If the application is denied or withdrawn, such fee shall not be refunded. Each Licensee may be required to pay fees to the Department to process additional applications related to the license.
 
 Statutory authority: Financial Services Law, sections 202, 206, 301, 302, and 304-a; State Administrative Procedures Act, section 102
  
 <a name="actionbysuperintendent"></a>
 ## Section 200.6  Action by superintendent
 
-(a) Generally. Upon the filing of an application for licensing under this Part, payment of the required fee, and demonstration by the applicant of its ability to comply with the provisions of this Part, the superintendent shall investigate the financial condition and responsibility, financial and business experience, and character and general fitness of the applicant. If the superintendent finds these qualities are such as to warrant the belief that the applicant’s business will be conducted honestly, fairly, equitably, carefully, and efficiently within the purposes and intent of this Part, and in a manner commanding the confidence and trust of the community, the superintendent shall advise the applicant in writing of his or her approval of the application, and shall issue to the applicant a license to conduct Virtual Currency Business Activity, subject to the provisions of this Part and such other conditions as the superintendent shall deem appropriate; or the superintendent may deny the application.
+##### (a) Generally. Upon the filing of an application for licensing under this Part, payment of the required fee, and demonstration by the applicant of its ability to comply with the provisions of this Part, the superintendent shall investigate the financial condition and responsibility, financial and business experience, and character and general fitness of the applicant. If the superintendent finds these qualities are such as to warrant the belief that the applicant’s business will be conducted honestly, fairly, equitably, carefully, and efficiently within the purposes and intent of this Part, and in a manner commanding the confidence and trust of the community, the superintendent shall advise the applicant in writing of his or her approval of the application, and shall issue to the applicant a license to conduct Virtual Currency Business Activity, subject to the provisions of this Part and such other conditions as the superintendent shall deem appropriate; or the superintendent may deny the application.
 
-(b) Approval or denial of application. The superintendent shall approve or deny every application for a license hereunder within 90 days from the filing of an application deemed by the superintendent to be complete. Such period of 90 days may be extended at the discretion of the superintendent for such additional reasonable period of time as may be required to enable compliance with this Part. A license issued pursuant to this Part shall remain in full force and effect until it is surrendered by the Licensee or revoked or suspended as provided in this Part.
+##### (b) Approval or denial of application. The superintendent shall approve or deny every application for a license hereunder within 90 days from the filing of an application deemed by the superintendent to be complete. Such period of 90 days may be extended at the discretion of the superintendent for such additional reasonable period of time as may be required to enable compliance with this Part. A license issued pursuant to this Part shall remain in full force and effect until it is surrendered by the Licensee or revoked or suspended as provided in this Part.
 
-(c) Suspension or revocation of license. The superintendent may suspend or revoke a license issued under this Part on any ground on which the superintendent might refuse to issue an original license, for a violation of any provision of this Part, for good cause shown, or for failure of the Licensee to pay a judgment, recovered in any court, within or without this State, by a claimant or creditor in an action arising out of, or relating to, the Licensee’s Virtual Currency Business Activity, within thirty days after the judgment becomes final or within thirty days after expiration or termination of a stay of execution thereon; provided, however, that if execution on
+##### (c) Suspension or revocation of license. The superintendent may suspend or revoke a license issued under this Part on any ground on which the superintendent might refuse to issue an original license, for a violation of any provision of this Part, for good cause shown, or for failure of the Licensee to pay a judgment, recovered in any court, within or without this State, by a claimant or creditor in an action arising out of, or relating to, the Licensee’s Virtual Currency Business Activity, within thirty days after the judgment becomes final or within thirty days after expiration or termination of a stay of execution thereon; provided, however, that if execution on
 
 the judgment is stayed, by court order or operation of law or otherwise, then proceedings to suspend or revoke the license (for failure of the Licensee to pay such judgment) may not be commenced by the superintendent during the time of such stay, and for thirty days thereafter. “Good cause” shall exist when a Licensee has defaulted or is likely to default in performing its obligations or financial engagements or engages in unlawful, dishonest, wrongful, or inequitable conduct or practices that may cause harm to the public.
 
-(d) Hearing. No license issued under this Part shall be revoked or suspended except after a hearing thereon. The superintendent shall give a Licensee no less than ten days’ written notice of the time and place of such hearing by registered or certified mail addressed to the principal place of business of such Licensee. Any order of the superintendent suspending or revoking such license shall state the grounds upon which it is based and be sent by registered or certified mail to the Licensee at its principal place of business as shown in the records of the Department.
+##### (d) Hearing. No license issued under this Part shall be revoked or suspended except after a hearing thereon. The superintendent shall give a Licensee no less than ten days’ written notice of the time and place of such hearing by registered or certified mail addressed to the principal place of business of such Licensee. Any order of the superintendent suspending or revoking such license shall state the grounds upon which it is based and be sent by registered or certified mail to the Licensee at its principal place of business as shown in the records of the Department.
 
-(e) Preliminary injunction. The superintendent may, when deemed by the superintendent to be in the public interest, seek a preliminary injunction to restrain a Licensee from continuing to perform acts that violate any provision of this Part, the Financial Services Law, Banking Law, or Insurance Law.
+##### (e) Preliminary injunction. The superintendent may, when deemed by the superintendent to be in the public interest, seek a preliminary injunction to restrain a Licensee from continuing to perform acts that violate any provision of this Part, the Financial Services Law, Banking Law, or Insurance Law.
 
-(f) Preservation of powers. Nothing in this Part shall be construed as limiting any power granted to the superintendent under any other provision of the Banking Law, Insurance Law, or Financial Services Law, including any power to investigate possible violations of law, rule, or regulation or to impose penalties or take any other action against any Person for violation of such laws, rules, or regulations.
+##### (f) Preservation of powers. Nothing in this Part shall be construed as limiting any power granted to the superintendent under any other provision of the Banking Law, Insurance Law, or Financial Services Law, including any power to investigate possible violations of law, rule, or regulation or to impose penalties or take any other action against any Person for violation of such laws, rules, or regulations.
 
-Statutory Authority: Financial Services Law, sections 102, 301, 302, 305, and 309
+*Statutory Authority: Financial Services Law, sections 102, 301, 302, 305, and 309*
  
 <a name="compliance"/>
 ## Section 200.7  Compliance
 
-(a) Generally. Each Licensee is required to comply with all applicable federal and state laws, rules, and regulations.
+##### (a) Generally. Each Licensee is required to comply with all applicable federal and state laws, rules, and regulations.
 
-(b) Compliance officer. Each Licensee shall designate a qualified individual or individuals responsible for coordinating and monitoring compliance with this Part and all other applicable federal and state laws, rules, and regulations.
+##### (b) Compliance officer. Each Licensee shall designate a qualified individual or individuals responsible for coordinating and monitoring compliance with this Part and all other applicable federal and state laws, rules, and regulations.
 
-(c) Compliance policy. Each Licensee shall maintain and enforce written compliance policies, including policies with respect to anti-fraud, anti-money laundering, cyber security, privacy and information security, and any other policy required under this Part, which must be reviewed and approved by the Licensee’s board of directors or an equivalent governing body.
+##### (c) Compliance policy. Each Licensee shall maintain and enforce written compliance policies, including policies with respect to anti-fraud, anti-money laundering, cyber security, privacy and information security, and any other policy required under this Part, which must be reviewed and approved by the Licensee’s board of directors or an equivalent governing body.
 
-Statutory Authority: Financial Services Law, sections 102, 301, and 302
+*Statutory Authority: Financial Services Law, sections 102, 301, and 302*
  
 <a name="capitalrequirements"/>
 ## Section 200.8  Capital requirements
 
-(a) Each Licensee shall maintain at all times such capital as the superintendent determines is sufficient to ensure the financial integrity of the Licensee and its ongoing operations. In determining the minimum amount of capital that must be maintained by a Licensee, the superintendent will consider a variety of factors, including but not limited to:
+##### (a) Each Licensee shall maintain at all times such capital as the superintendent determines is sufficient to ensure the financial integrity of the Licensee and its ongoing operations. In determining the minimum amount of capital that must be maintained by a Licensee, the superintendent will consider a variety of factors, including but not limited to:
 
-(1) the composition of the Licensee’s total assets, including the position, size, liquidity, risk exposure, and price volatility of each type of asset;
+1. the composition of the Licensee’s total assets, including the position, size, liquidity, risk exposure, and price volatility of each type of asset;
 
-(2) the composition of the Licensee’s total liabilities, including the size and repayment timing of each type of liability;
+2. the composition of the Licensee’s total liabilities, including the size and repayment timing of each type of liability;
 
-(3) the actual and expected volume of the Licensee’s Virtual Currency Business Activity;
+3. the actual and expected volume of the Licensee’s Virtual Currency Business Activity;
 
-(4) whether the Licensee is already licensed or regulated by the superintendent under the Financial Services Law, Banking Law, or Insurance Law, or otherwise subject to such laws as a provider of a financial product or service, and whether the Licensee is in good standing in such capacity;
+4. whether the Licensee is already licensed or regulated by the superintendent under the Financial Services Law, Banking Law, or Insurance Law, or otherwise subject to such laws as a provider of a financial product or service, and whether the Licensee is in good standing in such capacity;
 
-(5) the amount of leverage employed by the Licensee;
+5. the amount of leverage employed by the Licensee;
 
-(6) the liquidity position of the Licensee; and
+6. the liquidity position of the Licensee; and
 
-(7) the financial protection that the Licensee provides for its customers through its trust account or bond.
+7. the financial protection that the Licensee provides for its customers through its trust account or bond.
 
-(b) Each Licensee shall be permitted to invest its retained earnings and profits in only the following high- quality, investment-grade permissible investments with maturities of up to one year and denominated in United States dollars:
+##### (b) Each Licensee shall be permitted to invest its retained earnings and profits in only the following high- quality, investment-grade permissible investments with maturities of up to one year and denominated in United States dollars:
 
-(1) certificates of deposit issued by financial institutions that are regulated by a United States federal or state regulatory agency;
+1. certificates of deposit issued by financial institutions that are regulated by a United States federal or state regulatory agency;
 
-(2) money market funds;
+2. money market funds;
 
-(3) state or municipal bonds;
+3. state or municipal bonds;
 
-(4) United States government securities; or
+4. United States government securities; or
 
-(5) United States government agency securities.
+5. United States government agency securities.
 
-Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302
+*Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302*
  
 <a name="custodyandprotection"/>
 ## Section 200.9  Custody and protection of customer assets
 
-(a) Each Licensee shall maintain a bond or trust account in United States dollars for the benefit of its customers in such form and amount as is acceptable to the superintendent for the protection of the Licensee’s customers.
+##### (a) Each Licensee shall maintain a bond or trust account in United States dollars for the benefit of its customers in such form and amount as is acceptable to the superintendent for the protection of the Licensee’s customers.
 
-(b) To the extent a Licensee secures, stores, holds, or maintains custody or control of Virtual Currency on behalf of another Person, such Licensee shall hold Virtual Currency of the same type and amount as that which is owed or obligated to such other Person.
+##### (b) To the extent a Licensee secures, stores, holds, or maintains custody or control of Virtual Currency on behalf of another Person, such Licensee shall hold Virtual Currency of the same type and amount as that which is owed or obligated to such other Person.
 
-(c) Each Licensee is prohibited from selling, transferring, assigning, lending, hypothecating, pledging, or otherwise using or encumbering assets, including Virtual Currency, held, stored, or maintained by, or under the custody or control of, such Licensee on behalf of another Person.
+##### (c) Each Licensee is prohibited from selling, transferring, assigning, lending, hypothecating, pledging, or otherwise using or encumbering assets, including Virtual Currency, held, stored, or maintained by, or under the custody or control of, such Licensee on behalf of another Person.
 
-Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302
+*Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302*
 
 <a name="materialchange"/>
 ## Section 200.10  Material change to business
 
-(a) Each Licensee must obtain the superintendent’s prior written approval for any plan or proposal to introduce or offer a new product, service, or activity, or to make a material change to an existing product, service, or activity, involving New York or New York Residents.
+##### (a) Each Licensee must obtain the superintendent’s prior written approval for any plan or proposal to introduce or offer a new product, service, or activity, or to make a material change to an existing product, service, or activity, involving New York or New York Residents.
 
-(b) A “material change” may occur where:
+##### (b) A “material change” may occur where:
 
-(1) a change is proposed to an existing product, service, or activity that may cause such product, service, or activity to be materially different from that previously listed on the application for licensing by the superintendent;
+1. a change is proposed to an existing product, service, or activity that may cause such product, service, or activity to be materially different from that previously listed on the application for licensing by the superintendent;
 
-(2) the proposed change may raise a legal or regulatory issue about the permissibility of the product, service, or activity; or
+2. the proposed change may raise a legal or regulatory issue about the permissibility of the product, service, or activity; or
 
-(3) the proposed change may raise safety and soundness or operational concerns.
+3. the proposed change may raise safety and soundness or operational concerns.
 
-(c) The Licensee shall submit a written plan describing the proposed material change, including a detailed description of the business operations, compliance policies, and the impact on the overall business of the Licensee, as well as such other information as requested by the superintendent.
+##### (c) The Licensee shall submit a written plan describing the proposed material change, including a detailed description of the business operations, compliance policies, and the impact on the overall business of the Licensee, as well as such other information as requested by the superintendent.
 
-Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302
+*Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302*
  
 <a name="changeofcontrol"/>
 ## Section 200.11  Change of control; mergers and acquisitions
 
-(a) Change of Control. No action shall be taken, except with the prior written approval of the superintendent, that may result in a change of control of a Licensee.
+##### (a) Change of Control. No action shall be taken, except with the prior written approval of the superintendent, that may result in a change of control of a Licensee.
 
-(1) Prior to any change of control, the Person seeking to acquire control of a Licensee shall submit a written application to the superintendent in a form and substance acceptable to the superintendent, including detailed information about the applicant and all directors, Principal Officers, Principal Stockholders, and Principal Beneficiaries of the applicant, as applicable.
+1. Prior to any change of control, the Person seeking to acquire control of a Licensee shall submit a written application to the superintendent in a form and substance acceptable to the superintendent, including detailed information about the applicant and all directors, Principal Officers, Principal Stockholders, and Principal Beneficiaries of the applicant, as applicable.
 
-(2) For purposes of this Section, the term “control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Licensee whether through the ownership of stock of such Licensee or the stock of any Person that possesses such power. Control shall be presumed to exist if a Person, directly or indirectly, owns, controls, or holds with power to vote ten percent or more of the voting stock of a Licensee or of any Person that owns, controls, or holds with power to vote ten percent or more of the voting stock of such Licensee.
+2. For purposes of this Section, the term “control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Licensee whether through the ownership of stock of such Licensee or the stock of any Person that possesses such power. Control shall be presumed to exist if a Person, directly or indirectly, owns, controls, or holds with power to vote ten percent or more of the voting stock of a Licensee or of any Person that owns, controls, or holds with power to vote ten percent or more of the voting stock of such Licensee.
 
-(3) The superintendent shall approve or deny every application for a change of control of a Licensee hereunder within 120 days from the filing of an application deemed by the superintendent to be complete. Such period of 120 days may be extended by the superintendent, for good cause shown, for such additional reasonable period of time as may be required to enable compliance with the requirements and conditions of this Part.
+3. The superintendent shall approve or deny every application for a change of control of a Licensee hereunder within 120 days from the filing of an application deemed by the superintendent to be complete. Such period of 120 days may be extended by the superintendent, for good cause shown, for such additional reasonable period of time as may be required to enable compliance with the requirements and conditions of this Part.
 
-(4) In determining whether to approve a proposed change of control, the superintendent shall, among other factors, take into consideration the public interest and the needs and convenience of the public.
+4. In determining whether to approve a proposed change of control, the superintendent shall, among other factors, take into consideration the public interest and the needs and convenience of the public.
 
-(b) Mergers and Acquisitions. No action shall be taken, except with the prior written approval of the superintendent, that may result in a merger or acquisition of all or a substantial part of the assets of a Licensee.
+##### (b) Mergers and Acquisitions. No action shall be taken, except with the prior written approval of the superintendent, that may result in a merger or acquisition of all or a substantial part of the assets of a Licensee.
 
-(1) Prior to any such merger or acquisition, an application containing a written plan of merger or acquisition shall be submitted to the superintendent by the entities that are to merge or by the acquiring entity, as applicable. Such plan shall be in form and substance satisfactory to the superintendent, and shall specify each entity to be merged, the entity that is to receive into itself the merging entity, or the entity acquiring all or substantially all of the assets of the Licensee, as applicable, and shall describe the terms and conditions of the merger or acquisition and the mode of carrying it into effect.
+1. Prior to any such merger or acquisition, an application containing a written plan of merger or acquisition shall be submitted to the superintendent by the entities that are to merge or by the acquiring entity, as applicable. Such plan shall be in form and substance satisfactory to the superintendent, and shall specify each entity to be merged, the entity that is to receive into itself the merging entity, or the entity acquiring all or substantially all of the assets of the Licensee, as applicable, and shall describe the terms and conditions of the merger or acquisition and the mode of carrying it into effect.
 
-(2) The superintendent shall approve or deny a proposed merger or a proposed acquisition of all or a substantial part of the assets of a Licensee within 120 days after the submission of the proposed plan to the Department. Such period of 120 days may be extended by the superintendent, for good cause shown, for such additional reasonable period of time as may be required to enable compliance with the requirements and conditions of this Part.
+2. The superintendent shall approve or deny a proposed merger or a proposed acquisition of all or a substantial part of the assets of a Licensee within 120 days after the submission of the proposed plan to the Department. Such period of 120 days may be extended by the superintendent, for good cause shown, for such additional reasonable period of time as may be required to enable compliance with the requirements and conditions of this Part.
 
-(3) In determining whether to so approve a proposed merger or acquisition, the superintendent shall, among other factors, take into consideration the public interest and the needs and convenience of the public.
+3. In determining whether to so approve a proposed merger or acquisition, the superintendent shall, among other factors, take into consideration the public interest and the needs and convenience of the public.
 
-Statutory authority: Financial Services Law, sections 102, 202, 301, and 302
+*Statutory authority: Financial Services Law, sections 102, 202, 301, and 302*
  
 <a name="booksandrecords"/>
 ## Section 200.12  Books and records
 
-(a) Each Licensee shall, in connection with its Virtual Currency Business Activity, make, keep, and preserve all of its books and records in their original form or native file format for a period of at least ten years from the date of their creation and in a condition that will allow the superintendent to determine whether the Licensee is complying with all applicable laws, rules, and regulations. The books and records maintained by each Licensee shall, without limitation, include:
+##### (a) Each Licensee shall, in connection with its Virtual Currency Business Activity, make, keep, and preserve all of its books and records in their original form or native file format for a period of at least ten years from the date of their creation and in a condition that will allow the superintendent to determine whether the Licensee is complying with all applicable laws, rules, and regulations. The books and records maintained by each Licensee shall, without limitation, include:
 
-(1) for each transaction, the amount, date, and precise time of the transaction, any payment instructions, the total amount of fees and charges received and paid to, by, or on behalf of the Licensee, and the names, account numbers, and physical addresses of the parties to the transaction;
+1. for each transaction, the amount, date, and precise time of the transaction, any payment instructions, the total amount of fees and charges received and paid to, by, or on behalf of the Licensee, and the names, account numbers, and physical addresses of the parties to the transaction;
 
-(2) a general ledger containing all assets, liabilities, capital, income, expense accounts, and profit and loss accounts;
+2. a general ledger containing all assets, liabilities, capital, income, expense accounts, and profit and loss accounts;
 
-(3) bank statements and bank reconciliation records;
+3. bank statements and bank reconciliation records;
 
-(4) any statements or valuations sent or provided to customers and counterparties;
+4. any statements or valuations sent or provided to customers and counterparties;
 
-(5) records or minutes of meetings of the board of directors or an equivalent governing body;
+5. records or minutes of meetings of the board of directors or an equivalent governing body;
 
-(6) records demonstrating compliance with applicable state and federal anti-money laundering laws, rules, and regulations, including customer identification and verification documents, records linking customers to their respective accounts and balances, and a record of all compliance breaches;
+6. records demonstrating compliance with applicable state and federal anti-money laundering laws, rules, and regulations, including customer identification and verification documents, records linking customers to their respective accounts and balances, and a record of all compliance breaches;
 
-(7) communications and documentation related to investigations of customer complaints and transaction error resolution or concerning facts giving rise to possible violations of laws, rules, or regulations;
+7. communications and documentation related to investigations of customer complaints and transaction error resolution or concerning facts giving rise to possible violations of laws, rules, or regulations;
 
-(8) all other records required to be maintained in accordance with this Part; and
+8. all other records required to be maintained in accordance with this Part; and
 
-(9) all other records as the superintendent may require.
+9. all other records as the superintendent may require.
 
-(b) Each Licensee shall provide the Department, upon request, immediate access to all facilities, books, records, documents, or other information maintained by the Licensee or its Affiliates, wherever located.
+##### (b) Each Licensee shall provide the Department, upon request, immediate access to all facilities, books, records, documents, or other information maintained by the Licensee or its Affiliates, wherever located.
 
-(c) Records of non-completed, outstanding, or inactive Virtual Currency accounts or transactions shall be maintained for at least five years after the time when any such Virtual Currency has been deemed, under the Abandoned Property Law, to be abandoned property.
+##### (c) Records of non-completed, outstanding, or inactive Virtual Currency accounts or transactions shall be maintained for at least five years after the time when any such Virtual Currency has been deemed, under the Abandoned Property Law, to be abandoned property.
 
-Statutory authority: Financial Services Law, sections 102, 202, 301, 302, and 306
+*Statutory authority: Financial Services Law, sections 102, 202, 301, 302, and 306*
 
 <a name="examinations"/>
 ## Section 200.13  Examinations

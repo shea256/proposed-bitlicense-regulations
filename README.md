@@ -3,14 +3,6 @@ Proposed BitLicense Regulations for the State of New York
 
 [view/annotate on genius.com](http://news.genius.com/New-york-department-of-financial-services-proposed-bitlicense-regulations-annotated)
 
-### NEW YORK STATE DEPARTMENT OF FINANCIAL SERVICES PROPOSED
-
-### NEW YORK CODES, RULES AND REGULATIONS
-
-### TITLE 23.  DEPARTMENT OF FINANCIAL SERVICES
-
-### CHAPTER I.  REGULATIONS OF THE SUPERINTENDENT OF FINANCIAL SERVICES PART 200. VIRTUAL CURRENCIES
-
 ##### Table of Contents
 [Section 200.1  Introduction](#introduction)  
 [Section 200.2  Definitions](#definitions)  

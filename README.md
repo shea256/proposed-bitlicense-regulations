@@ -90,22 +90,22 @@ For purposes of this Part only, the following definitions shall apply:
 
     5. controlling, administering, or issuing a Virtual Currency.
 
-**Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302**
+*Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302*
 
 <a name="license"/>
 ## Section 200.3  License
 
-(a) License required. No Person shall, without a license obtained from the superintendent as provided in this Part, engage in any Virtual Currency Business Activity.
++ (a) License required. No Person shall, without a license obtained from the superintendent as provided in this Part, engage in any Virtual Currency Business Activity.
 
-(b) Unlicensed agents prohibited. Each Licensee is prohibited from conducting any Virtual Currency Business Activity through an agent or agency arrangement when the agent is not a Licensee.
++ (b) Unlicensed agents prohibited. Each Licensee is prohibited from conducting any Virtual Currency Business Activity through an agent or agency arrangement when the agent is not a Licensee.
 
-(c) Exemption from licensing requirements. The following Persons are exempt from the licensing requirements otherwise applicable under this Part:
++ (c) Exemption from licensing requirements. The following Persons are exempt from the licensing requirements otherwise applicable under this Part:
 
-(1) Persons that are chartered under the New York Banking Law to conduct exchange services and are approved by the superintendent to engage in Virtual Currency Business Activity; and
++ (1) Persons that are chartered under the New York Banking Law to conduct exchange services and are approved by the superintendent to engage in Virtual Currency Business Activity; and
 
-(2) merchants and consumers that utilize Virtual Currency solely for the purchase or sale of goods or services.
++ (2) merchants and consumers that utilize Virtual Currency solely for the purchase or sale of goods or services.
 
-Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302
+*Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302*
 
 <a name="application"/>
 ## Section 200.4  Application

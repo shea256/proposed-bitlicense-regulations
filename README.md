@@ -105,7 +105,7 @@ For purposes of this Part only, the following definitions shall apply:
 
 2. merchants and consumers that utilize Virtual Currency solely for the purchase or sale of goods or services.
 
-3. Persons that do not maintain control/custody of the private keys (or the required criteria for a Bitcoin script/contract) of their clients. 
+3. Persons that do not maintain control or custody of the private keys or the necessary number of keys needed to sign a bitcoin transaction for their clients.
 
 *Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302*
 

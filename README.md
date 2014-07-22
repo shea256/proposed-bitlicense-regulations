@@ -296,8 +296,6 @@ Statutory authority: Financial Services Law, sections 202, 206, 301, 302, and 30
 
 ##### (b) Each Licensee shall provide the Department, upon request, immediate access to all facilities, books, records, documents, or other information maintained by the Licensee or its Affiliates, wherever located.
 
-##### (c) Records of non-completed, outstanding, or inactive Virtual Currency accounts or transactions shall be maintained for at least five years after the time when any such Virtual Currency has been deemed, under the Abandoned Property Law, to be abandoned property.
-
 *Statutory authority: Financial Services Law, sections 102, 202, 301, 302, and 306*
 
 <a name="examinations"/>

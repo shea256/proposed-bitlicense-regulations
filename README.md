@@ -58,7 +58,7 @@ For purposes of this Part only, the following definitions shall apply:
 
 ##### (f) New York means the State of New York;
 
-##### (g) New York Resident means any Person that resides, is located, has a place of business, or is conducting business in New York;
+##### (g) New York Resident means domiciliary in New York, that is, one who lives in this state with the intention of making it a fixed and permanent abode;
 
 ##### (h) Person means an individual, partnership, corporation, association, joint stock association, trust, or other business combination or entity, however organized;
 

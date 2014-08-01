@@ -206,18 +206,6 @@ Statutory authority: Financial Services Law, sections 202, 206, 301, 302, and 30
 
 7. the financial protection that the Licensee provides for its customers through its trust account or bond.
 
-##### (b) Each Licensee shall be permitted to invest its retained earnings and profits in only the following high- quality, investment-grade permissible investments with maturities of up to one year and denominated in United States dollars:
-
-1. certificates of deposit issued by financial institutions that are regulated by a United States federal or state regulatory agency;
-
-2. money market funds;
-
-3. state or municipal bonds;
-
-4. United States government securities; or
-
-5. United States government agency securities.
-
 *Statutory Authority: Financial Services Law, sections 102, 202, 301, and 302*
  
 <a name="custodyandprotection"/>

@@ -321,766 +321,392 @@ superintendent may revoke or modify his or her determination, after notice and o
 Statutory authority: Financial Services Law Sections 102, 202, 301, and 302
 
 
-Section 200.12 Books and records
-(a) Each Licensee shall, in connection with its Virtual Currency Business Activity, make, keep, and
-preserve all of its books and records in their original form or native file format for a period of at least seven
-years from the date of their creation and in a condition that will allow the superintendent to determine whether
-the Licensee is complying with all applicable laws, rules, and regulations. The books and records maintained
-by each Licensee shall, without limitation, include:
-(1) for each transaction, the amount, date, and precise time of the transaction, any payment instructions,
-the total amount of fees and charges received and paid to, by, or on behalf of the Licensee, and the names,
-account numbers, and physical addresses of (i) the party or parties to the transaction that are customers or
-accountholders of the Licensee; and (ii) to the extent practicable, any other parties to the transaction;
+##Section 200.12 Books and records
+
+####(a) Each Licensee shall, in connection with its Virtual Currency Business Activity, make, keep, and preserve all of its books and records in their original form or native file format for a period of at least seven years from the date of their creation and in a condition that will allow the superintendent to determine whether the Licensee is complying with all applicable laws, rules, and regulations. The books and records maintained by each Licensee shall, without limitation, include:
+
+(1) for each transaction, the amount, date, and precise time of the transaction, any payment instructions, the total amount of fees and charges received and paid to, by, or on behalf of the Licensee, and the names, account numbers, and physical addresses of (i) the party or parties to the transaction that are customers or accountholders of the Licensee; and (ii) to the extent practicable, any other parties to the transaction;
+
 (2) a general ledger containing all asset, liability, ownership equity, income, and expense accounts;
+
 (3) bank statements and bank reconciliation records;
+
 (4) any statements or valuations sent or provided to customers and counterparties;
+
 (5) records or minutes of meetings of the board of directors or an equivalent governing body;
-(6) records demonstrating compliance with applicable state and federal anti-money laundering laws,
-rules, and regulations, including customer identification and verification documents, records linking customers
+
+(6) records demonstrating compliance with applicable state and federal anti-money laundering laws, rules, and regulations, including customer identification and verification documents, records linking customers
 to their respective accounts and balances, and a record of all compliance breaches;
-(7) communications and documentation related to investigations of customer complaints and transaction
-error resolution or concerning facts giving rise to possible violations of laws, rules, or regulations;
+
+(7) communications and documentation related to investigations of customer complaints and transaction error resolution or concerning facts giving rise to possible violations of laws, rules, or regulations;
+
 (8) all other records required to be maintained in accordance with this Part; and
+
 (9) all other records as the superintendent may require.
-(b) Each Licensee shall provide the Department, upon request, immediate access to all facilities, books,
-records, documents, or other information maintained by the Licensee or its Affiliates, wherever located.
-23
- 
 
+####(b) Each Licensee shall provide the Department, upon request, immediate access to all facilities, books, records, documents, or other information maintained by the Licensee or its Affiliates, wherever located.
 
+####(c) Records of non-completed, outstanding, or inactive Virtual Currency accounts or transactions shall be maintained for at least five years after the time when any such Virtual Currency has been deemed, under the Abandoned Property Law, to be abandoned property.
 
-(c) Records of non-completed, outstanding, or inactive Virtual Currency accounts or transactions shall be
-maintained for at least five years after the time when any such Virtual Currency has been deemed, under the
-Abandoned Property Law, to be abandoned property.
 Statutory authority: Financial Services Law Sections 102, 202, 301, 302, and 306
 
-24
- 
+##Section 200.13 Examinations
 
+####(a) Each Licensee shall permit and assist the superintendent to examine the Licensee whenever in the superintendent’s judgment such examination is necessary or advisable, but not less than once every two calendar years, including, without limitation, to determine:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 200.13 Examinations
-(a) Each Licensee shall permit and assist the superintendent to examine the Licensee whenever in the
-superintendent’s judgment such examination is necessary or advisable, but not less than once every two
-calendar years, including, without limitation, to determine:
 (1) the financial condition of the Licensee;
+
 (2) the safety and soundness of the conduct of its business;
+
 (3) the policies of its management;
+
 (4) whether the Licensee has complied with the requirements of laws, rules, and regulations; and
-(5) such other matters as the superintendent may determine, including, but not limited to, any activities
-of the Licensee outside the State of New York if in the opinion of the superintendent such activities may affect
-the Licensee’s Virtual Currency Business Activity.
-(b) Each Licensee shall permit and assist the superintendent at any time to examine all of the Licensee’s
-books, records, accounts, documents, and other information.
-(c) Each Licensee shall permit and assist the superintendent to make such special investigations as the
-superintendent shall deem necessary to determine whether a Licensee has violated any provision of the
-applicable laws, rules, or regulations and to the extent necessary shall permit and assist the superintendent to
-examine all relevant facilities, books, records, accounts, documents, and other information.
-(d) For the purpose of determining the financial condition of the Licensee or its safety and soundness
-practices, the Licensee shall permit and assist the superintendent, when in the superintendent’s judgment it is
-necessary or advisable, to examine an Affiliate of the Licensee.
+
+(5) such other matters as the superintendent may determine, including, but not limited to, any activities of the Licensee outside the State of New York if in the opinion of the superintendent such activities may affect the Licensee’s Virtual Currency Business Activity.
+
+####(b) Each Licensee shall permit and assist the superintendent at any time to examine all of the Licensee’s books, records, accounts, documents, and other information.
+
+####(c) Each Licensee shall permit and assist the superintendent to make such special investigations as the superintendent shall deem necessary to determine whether a Licensee has violated any provision of the applicable laws, rules, or regulations and to the extent necessary shall permit and assist the superintendent to examine all relevant facilities, books, records, accounts, documents, and other information.
+
+####(d) For the purpose of determining the financial condition of the Licensee or its safety and soundness practices, the Licensee shall permit and assist the superintendent, when in the superintendent’s judgment it is necessary or advisable, to examine an Affiliate of the Licensee.
+
 Statutory authority: Financial Services Law Sections 102, 202, 301, and 302
-25
- 
 
+##Section 200.14 Reports and financial disclosures
 
+####(a) Each Licensee shall submit to the superintendent quarterly financial statements within 45 days following the close of the Licensee’s fiscal quarter in the form, and containing such information, as the superintendent shall prescribe, including without limitation, the following information:
 
+(1) a statement of the financial condition of the Licensee, including a balance sheet, income statement, statement of comprehensive income, statement of change in ownership equity, cash flow statement, and statement of net liquid assets;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 200.14 Reports and financial disclosures
-(a) Each Licensee shall submit to the superintendent quarterly financial statements within 45 days following
-the close of the Licensee’s fiscal quarter in the form, and containing such information, as the superintendent
-shall prescribe, including without limitation, the following information:
-(1) a statement of the financial condition of the Licensee, including a balance sheet, income statement,
-statement of comprehensive income, statement of change in ownership equity, cash flow statement, and
-statement of net liquid assets;
 (2) a statement demonstrating compliance with any financial requirements established under this Part;
+
 (3) financial projections and strategic business plans;
+
 (4) a list of all off-balance sheet items;
+
 (5) a chart of accounts, including a description of each account; and
+
 (6) a report of permissible investments by the Licensee as permitted under this Part.
-(b) Each Licensee shall submit audited annual financial statements, together with an opinion and an
-attestation by an independent certified public accountant regarding the effectiveness of the Licensee’s internal
+
+(b) Each Licensee shall submit audited annual financial statements, together with an opinion and an attestation by an independent certified public accountant regarding the effectiveness of the Licensee’s internal
 control structure . All such annual financial statements shall include:
-(1) a statement of management’s responsibilities for preparing the Licensee’s annual financial
-statements, establishing and maintaining adequate internal controls and procedures for financial reporting, and
-complying with all applicable laws, rules, and regulations;
-(2) an assessment by management of the Licensee’s compliance with such applicable laws, rules, and
-regulations during the fiscal year covered by the financial statements; and
-(3) certification of the financial statements by an officer or director of the Licensee attesting to the truth
-and correctness of those statements.
-26
- 
 
+*(1) a statement of management’s responsibilities for preparing the Licensee’s annual financial statements, establishing and maintaining adequate internal controls and procedures for financial reporting, and complying with all applicable laws, rules, and regulations;*
 
+*(2) an assessment by management of the Licensee’s compliance with such applicable laws, rules, and regulations during the fiscal year covered by the financial statements; and*
 
+*(3) certification of the financial statements by an officer or director of the Licensee attesting to the truth and correctness of those statements.*
 
+####(c) Each Licensee shall notify the superintendent in writing of any criminal action or insolvency proceeding against the Licensee or any of its directors, Principal Stockholders, Principal Officers, and Principal Beneficiaries, as applicable, immediately after the commencement of any such action or proceeding.
 
+####(d) Each Licensee shall notify the superintendent in writing of any proposed change to the methodology used to calculate the value of Virtual Currency in Fiat Currency that was submitted to the Department in accordance with Section 200.4 or this Subsection.
 
+####(e) Each Licensee shall submit a report to the superintendent immediately upon the discovery of any violation or breach of law, rule, or regulation related to the conduct of activity licensed under this Part.
 
+####(f) Each Licensee shall make additional special reports to the superintendent, at such times and in such form, as the superintendent shall request.
 
-
-
-(c) Each Licensee shall notify the superintendent in writing of any criminal action or insolvency proceeding
-against the Licensee or any of its directors, Principal Stockholders, Principal Officers, and Principal
-Beneficiaries, as applicable, immediately after the commencement of any such action or proceeding.
-(d) Each Licensee shall notify the superintendent in writing of any proposed change to the methodology
-used to calculate the value of Virtual Currency in Fiat Currency that was submitted to the Department in
-accordance with Section 200.4 or this Subsection.
-(e) Each Licensee shall submit a report to the superintendent immediately upon the discovery of any
-violation or breach of law, rule, or regulation related to the conduct of activity licensed under this Part.
-(f) Each Licensee shall make additional special reports to the superintendent, at such times and in such
-form, as the superintendent shall request.
 Statutory authority: Financial Services Law Sections 102, 202, 301, 302, and 306
-27
- 
 
+##Section 200.15 Anti-money laundering program
 
+####(a) All values in United States dollars referenced in this Section must be calculated using the methodology to determine the value of Virtual Currency in Fiat Currency that was provided to the Department under this Part.
 
+####(b) Each Licensee shall conduct an initial risk assessment that will consider legal, compliance, financial, and reputational risks associated with the Licensee’s activities, services, customers, counterparties, and geographic location and shall establish, maintain, and enforce an anti-money laundering program based thereon. The Licensee shall conduct additional assessments on an annual basis, or more frequently as risks change, and shall modify its anti-money laundering program as appropriate to reflect any such changes.
 
+####(c) The anti-money laundering program shall, at a minimum:
 
+(1) provide for a system of internal controls, policies, and procedures designed to ensure ongoing compliance with all applicable anti-money laundering laws, rules, and regulations;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 200.15 Anti-money laundering program
-(a) All values in United States dollars referenced in this Section must be calculated using the methodology
-to determine the value of Virtual Currency in Fiat Currency that was provided to the Department under this
-Part.
-(b) Each Licensee shall conduct an initial risk assessment that will consider legal, compliance, financial,
-and reputational risks associated with the Licensee’s activities, services, customers, counterparties, and
-geographic location and shall establish, maintain, and enforce an anti-money laundering program based thereon.
-The Licensee shall conduct additional assessments on an annual basis, or more frequently as risks change, and
-shall modify its anti-money laundering program as appropriate to reflect any such changes.
-(c) The anti-money laundering program shall, at a minimum:
-(1) provide for a system of internal controls, policies, and procedures designed to ensure ongoing
-compliance with all applicable anti-money laundering laws, rules, and regulations;
-(2) provide for independent testing for compliance with, and the effectiveness of, the anti-money
-laundering program to be conducted by qualified internal personnel of the Licensee, who are not responsible for
-the design, installation, maintenance, or operation of the anti-money laundering program, or the policies and
-procedures that guide its operation, or a qualified external party, at least annually, the findings of which shall be
+(2) provide for independent testing for compliance with, and the effectiveness of, the anti-money laundering program to be conducted by qualified internal personnel of the Licensee, who are not responsible for the design, installation, maintenance, or operation of the anti-money laundering program, or the policies and procedures that guide its operation, or a qualified external party, at least annually, the findings of which shall be
 summarized in a written report submitted to the superintendent;
-(3) designate a qualified individual or individuals in compliance responsible for coordinating and
-monitoring day-to-day compliance with the anti-money laundering program; and
-(4) provide ongoing training for appropriate personnel to ensure they have a fulsome understanding of
-anti-money laundering requirements and to enable them to identify transactions required to be reported and
-maintain records required to be kept in accordance with this Part.
-28
- 
 
+(3) designate a qualified individual or individuals in compliance responsible for coordinating and monitoring day-to-day compliance with the anti-money laundering program; and
 
+(4) provide ongoing training for appropriate personnel to ensure they have a fulsome understanding of anti-money laundering requirements and to enable them to identify transactions required to be reported and maintain records required to be kept in accordance with this Part.
 
+####(d) The anti-money laundering program shall include a written anti-money laundering policy reviewed and approved by the Licensee's board of directors or equivalent governing body.
 
+####(e) Each Licensee, as part of its anti-money laundering program, shall maintain records and make reports in the manner set forth below.
 
+(1) Records of Virtual Currency transactions. Each Licensee shall maintain the following information for all Virtual Currency transactions including involving the payment, receipt, exchange or conversion, purchase, sale, transfer, or transmission of Virtual Currency:
 
+*i) the identity and physical addresses of the party or parties to the transaction that are customers or accountholders of the Licensee and, to the extent practicable, any other parties to the transaction;*
 
+*ii) the amount or value of the transaction, including in what denomination purchased, sold, or transferred;*
 
+*iii) the method of payment;*
 
+*iv) the date or dates on which the transaction was initiated and completed; and*
 
+*v) a description of the transaction.*
 
+(2) Reports on transactions. When a Licensee is involved in a Virtual Currency transaction or series of Virtual Currency transactions, including transactions for the receipt, exchange, conversion, purchase, sale, transfer, or transmission of Virtual Currency, in an aggregate amount exceeding the United States dollar value of $10,000 in one day, by one Person, the Licensee shall notify the Department, in a manner prescribed by the superintendent, within 24 hours.
 
-
-
-
-
-
-
-
-
-
-(d) The anti-money laundering program shall include a written anti-money laundering policy reviewed and
-approved by the Licensee's board of directors or equivalent governing body.
-(e) Each Licensee, as part of its anti-money laundering program, shall maintain records and make reports in
-the manner set forth below.
-(1) Records of Virtual Currency transactions. Each Licensee shall maintain the following information
-for all Virtual Currency transactions including involving the payment, receipt, exchange or conversion,
-purchase, sale, transfer, or transmission of Virtual Currency:
-i) the identity and physical addresses of the party or parties to the transaction that are customers or
-accountholders of the Licensee and, to the extent practicable, any other parties to the transaction;
-ii) the amount or value of the transaction, including in what denomination purchased, sold, or
-transferred;
-iii) the method of payment;
-iv) the date or dates on which the transaction was initiated and completed; and
-v) a description of the transaction.
-(2) Reports on transactions. When a Licensee is involved in a Virtual Currency transaction or series of
-Virtual Currency transactions, including transactions for the receipt, exchange, conversion, purchase, sale,
-transfer, or transmission of Virtual Currency, in an aggregate amount exceeding the United States dollar value
-of $10,000 in one day, by one Person, the Licensee shall notify the Department, in a manner prescribed by the
-superintendent, within 24 hours.
-(3) Reporting of Suspicious Activity. Each Licensee shall monitor for transactions that might signify
-money laundering, tax evasion, or other illegal or criminal activity and notify the Department, in a manner
+(3) Reporting of Suspicious Activity. Each Licensee shall monitor for transactions that might signify money laundering, tax evasion, or other illegal or criminal activity and notify the Department, in a manner
 prescribed by the superintendent, immediately upon detection of any such transaction.
-29
- 
 
+*(i) Each Licensee shall file Suspicious Activity Reports (“SARs”) in accordance with applicable federal laws, rules, and regulations.*
 
+*(ii) Each Licensee that is not required to file SARs under federal law shall file with the superintendent, in a form prescribed by the superintendent, reports of transactions that indicate a possible violation of law or regulation within 30 days from the detection of the facts that constitute a need for filing. Continuing suspicious activity shall be reviewed on an ongoing basis and a suspicious activity report shall be filed within 120 days of the last filing describing continuing activity.*
 
+####(f) No Licensee shall structure transactions, or assist in the structuring of transactions, to evade reporting requirements under this Part.
 
+####(g) No Licensee shall engage in, facilitate, or knowingly allow the transfer or transmission of Virtual Currency when such action will obfuscate or conceal the identity of an individual customer or counterparty. Nothing in this Section, however, shall be construed to require a Licensee to make available to the general public the fact or nature of the movement of Virtual Currency by individual customers or counterparties.
 
+####(h) Each Licensee shall also maintain, as part of its anti-money laundering program, a customer identification program.
 
+(1) Identification and verification of account holders. When opening an account for, or establishing a service relationship with, a customer, each Licensee must, at a minimum, verify the customer’s identity, to the extent reasonable and practicable, maintain records of the information used to verify such identity, including name, physical address, and other identifying information, and check customers against the Specially Designated Nationals (“SDNs”) list maintained by the Office of Foreign Asset Control (“OFAC”), a part of the U.S. Treasury Department. Enhanced due diligence may be required based on additional factors, such as for high risk customers, high-volume accounts, or accounts on which a suspicious activity report has been filed.
 
+(2) Enhanced due diligence for accounts involving foreign entities. Licensees that maintain accounts for non-U.S. Persons and non-U.S. Licensees must establish enhanced due diligence policies, procedures, and controls to detect money laundering, including assessing the risk presented by such accounts based on the nature of the foreign business, the type and purpose of the activity, and the anti-money laundering and supervisory regime of the foreign jurisdiction.
 
+(3) Prohibition on accounts with foreign shell entities. Licensees are prohibited from maintaining relationships of any type in connection with their Virtual Currency Business Activity with entities that do not have a physical presence in any country.
 
+(4) Identification required for large transactions. Each Licensee must require verification of the identity of any accountholder initiating a transaction with a value greater than $3,000.
 
+*(i) Each Licensee shall demonstrate that it has risk-based policies, procedures, and practices to ensure, to the maximum extent practicable, compliance with applicable regulations issued by OFAC.*
 
+####(j) Each Licensee shall have in place appropriate policies and procedures to block or reject specific or impermissible transactions that violate federal or state laws, rules, or regulations.
 
+####(k) The individual or individuals designated by the Licensee, pursuant to Paragraph 200.15(c)(3), shall be responsible for day-to-day operations of the anti-money laundering program and shall, at a minimum:
 
+(1) Monitor changes in anti-money laundering laws, including updated OFAC and SDN lists, and update the program accordingly;
 
-
-
-
-
-
-
-
-(i) Each Licensee shall file Suspicious Activity Reports (“SARs”) in accordance with applicable
-federal laws, rules, and regulations.
-(ii) Each Licensee that is not required to file SARs under federal law shall file with the
-superintendent, in a form prescribed by the superintendent, reports of transactions that indicate a possible
-violation of law or regulation within 30 days from the detection of the facts that constitute a need for filing.
-Continuing suspicious activity shall be reviewed on an ongoing basis and a suspicious activity report shall be
-filed within 120 days of the last filing describing continuing activity.
-(f) No Licensee shall structure transactions, or assist in the structuring of transactions, to evade reporting
-requirements under this Part.
-(g) No Licensee shall engage in, facilitate, or knowingly allow the transfer or transmission of Virtual
-Currency when such action will obfuscate or conceal the identity of an individual customer or counterparty.
-Nothing in this Section, however, shall be construed to require a Licensee to make available to the general
-public the fact or nature of the movement of Virtual Currency by individual customers or counterparties.
-(h) Each Licensee shall also maintain, as part of its anti-money laundering program, a customer
-identification program.
-(1) Identification and verification of account holders. When opening an account for, or establishing a
-service relationship with, a customer, each Licensee must, at a minimum, verify the customer’s identity, to the
-extent reasonable and practicable, maintain records of the information used to verify such identity, including
-name, physical address, and other identifying information, and check customers against the Specially
-Designated Nationals (“SDNs”) list maintained by the Office of Foreign Asset Control (“OFAC”), a part of the
-U.S. Treasury Department. Enhanced due diligence may be required based on additional factors, such as for
-high risk customers, high-volume accounts, or accounts on which a suspicious activity report has been filed.
-30
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) Enhanced due diligence for accounts involving foreign entities. Licensees that maintain accounts for
-non-U.S. Persons and non-U.S. Licensees must establish enhanced due diligence policies, procedures, and
-controls to detect money laundering, including assessing the risk presented by such accounts based on the
-nature of the foreign business, the type and purpose of the activity, and the anti-money laundering and
-supervisory regime of the foreign jurisdiction.
-(3) Prohibition on accounts with foreign shell entities. Licensees are prohibited from maintaining
-relationships of any type in connection with their Virtual Currency Business Activity with entities that do not
-have a physical presence in any country.
-(4) Identification required for large transactions. Each Licensee must require verification of the identity
-of any accountholder initiating a transaction with a value greater than $3,000.
-(i) Each Licensee shall demonstrate that it has risk-based policies, procedures, and practices to ensure, to
-the maximum extent practicable, compliance with applicable regulations issued by OFAC.
-(j) Each Licensee shall have in place appropriate policies and procedures to block or reject specific or
-impermissible transactions that violate federal or state laws, rules, or regulations.
-(k) The individual or individuals designated by the Licensee, pursuant to Paragraph 200.15(c)(3), shall be
-responsible for day-to-day operations of the anti-money laundering program and shall, at a minimum:
-(1) Monitor changes in anti-money laundering laws, including updated OFAC and SDN lists, and update
-the program accordingly;
 (2) Maintain all records required to be maintained under this Section;
+
 (3) Review all filings required under this Section before submission;
-(4) Escalate matters to the board of directors, senior management, or appropriate governing body and
-seek outside counsel, as appropriate;
-31
- 
 
+(4) Escalate matters to the board of directors, senior management, or appropriate governing body and seek outside counsel, as appropriate;
 
+(5) Provide periodic reporting, at least annually, to the board of directors, senior management, or appropriate governing body; and
 
-(5) Provide periodic reporting, at least annually, to the board of directors, senior management, or
-appropriate governing body; and
 (6) Ensure compliance with relevant training requirements.
+
 Statutory authority: Financial Services Law Sections 201, 202, 302, and 404
-32
- 
 
+##Section 200.16 Cyber security program
 
+####(a) Generally. Each Licensee shall establish and maintain an effective cyber security program to ensure the availability and functionality of the Licensee’s electronic systems and to protect those systems and any sensitive data stored on those systems from unauthorized access, use, or tampering. The cyber security program shall be designed to perform the following five core cyber security functions:
 
+(1) identify internal and external cyber risks by, at a minimum, identifying the information stored on the Licensee’s systems, the sensitivity of such information, and how and by whom such information may be accessed;
 
+(2) protect the Licensee’s electronic systems, and the information stored on those systems, from unauthorized access, use, or other malicious acts through the use of defensive infrastructure and the implementation of policies and procedures;
 
+(3) detect systems intrusions, data breaches, unauthorized access to systems or information, malware, and other Cyber Security Events;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 200.16 Cyber security program
-(a) Generally. Each Licensee shall establish and maintain an effective cyber security program to ensure the
-availability and functionality of the Licensee’s electronic systems and to protect those systems and any sensitive
-data stored on those systems from unauthorized access, use, or tampering. The cyber security program shall be
-designed to perform the following five core cyber security functions:
-(1) identify internal and external cyber risks by, at a minimum, identifying the information stored on the
-Licensee’s systems, the sensitivity of such information, and how and by whom such information may be
-accessed;
-(2) protect the Licensee’s electronic systems, and the information stored on those systems, from
-unauthorized access, use, or other malicious acts through the use of defensive infrastructure and the
-implementation of policies and procedures;
-(3) detect systems intrusions, data breaches, unauthorized access to systems or information, malware,
-and other Cyber Security Events;
 (4) respond to detected Cyber Security Events to mitigate any negative effects; and
+
 (5) recover from Cyber Security Events and restore normal operations and services.
-(b) Policy. Each Licensee shall implement a written cyber security policy setting forth the Licensee’s
-policies and procedures for the protection of its electronic systems and customer and counterparty data stored on
-those systems, which shall be reviewed and approved by the Licensee’s board of directors or equivalent
-governing body at least annually. The cyber security policy must address the following areas:
+
+####(b) Policy. Each Licensee shall implement a written cyber security policy setting forth the Licensee’s policies and procedures for the protection of its electronic systems and customer and counterparty data stored on those systems, which shall be reviewed and approved by the Licensee’s board of directors or equivalent governing body at least annually. The cyber security policy must address the following areas:
+
 (1) information security;
+
 (2) data governance and classification;
+
 (3) access controls;
+
 (4) business continuity and disaster recovery planning and resources;
-33
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 (5)	 capacity and performance planning;
+
 (6)	 systems operations and availability concerns;
+
 (7)	 systems and network security;
+
 (8)	 systems and application development and quality assurance;
+
 (9)	 physical security and environmental controls;
-(10)	 customer data privacy;
-(11)	 vendor and third-party service provider management;
-(12) monitoring and implementing changes to core protocols not directly controlled by the Licensee, as
-applicable; and
-(13)	 incident response.
-(c) Chief Information Security Officer. Each Licensee shall designate a qualified employee to serve as the
-Licensee’s Chief Information Security Officer (“CISO”) responsible for overseeing and implementing the
-Licensee’s cyber security program and enforcing its cyber security policy.
-(d) Reporting. Each Licensee shall submit to the Department a report, prepared by the CISO and presented
-to the Licensee’s board of directors or equivalent governing body, at least annually, assessing the availability,
-functionality, and integrity of the Licensee’s electronic systems, identifying relevant cyber risks to the Licensee,
-assessing the Licensee’s cyber security program, and proposing steps for the redress of any inadequacies
-identified therein.
-(e)	 Audit. Each Licensee’s cyber security program shall, at a minimum, include audit functions as set forth
-below.
-(1) Penetration testing. Each Licensee shall conduct penetration testing of its electronic systems, at least
-annually, and vulnerability assessment of those systems, at least quarterly.
-(2)	 Audit trail. Each Licensee shall maintain audit trail systems that:
-34
- 
 
+(10) customer data privacy;
 
+(11) vendor and third-party service provider management;
 
+(12) monitoring and implementing changes to core protocols not directly controlled by the Licensee, as applicable; and
 
+(13) incident response.
 
+####(c) Chief Information Security Officer. Each Licensee shall designate a qualified employee to serve as the Licensee’s Chief Information Security Officer (“CISO”) responsible for overseeing and implementing the Licensee’s cyber security program and enforcing its cyber security policy.
 
+####(d) Reporting. Each Licensee shall submit to the Department a report, prepared by the CISO and presented to the Licensee’s board of directors or equivalent governing body, at least annually, assessing the availability, functionality, and integrity of the Licensee’s electronic systems, identifying relevant cyber risks to the Licensee, assessing the Licensee’s cyber security program, and proposing steps for the redress of any inadequacies identified therein.
 
+#####(e) Audit. Each Licensee’s cyber security program shall, at a minimum, include audit functions as set forth below.
 
+(1) Penetration testing. Each Licensee shall conduct penetration testing of its electronic systems, at least annually, and vulnerability assessment of those systems, at least quarterly.
 
+(2)	Audit trail. Each Licensee shall maintain audit trail systems that:
 
+*(i) track and maintain data that allows for the complete and accurate reconstruction of all financial transactions and accounting;*
 
+*(ii) protect the integrity of data stored and maintained as part of the audit trail from alteration or tampering;*
 
+*(iii) protect the integrity of hardware from alteration or tampering, including by limiting electronic and physical access permissions to hardware and maintaining logs of physical access to hardware that allows for event reconstruction;*
 
+*(iv) log system events including, at minimum, access and alterations made to the audit trail systems by the systems or by an authorized user, and all system administrator functions performed on the systems; and*
 
+*(v) maintain records produced as part of the audit trail in accordance with the recordkeeping requirements set forth in this Part.*
 
+####(f) Application Security. Each Licensee’s cyber security program shall, at minimum, include written procedures, guidelines, and standards reasonably designed to ensure the security of all applications utilized by the Licensee. All such procedures, guidelines, and standards shall be reviewed, assessed, and updated by the Licensee’s CISO at least annually.
 
+####(g) Personnel and Intelligence. Each Licensee shall:
 
-(i) track and maintain data that allows for the complete and accurate reconstruction of all financial
-transactions and accounting;
-(ii) protect the integrity of data stored and maintained as part of the audit trail from alteration or
-tampering;
-(iii) protect the integrity of hardware from alteration or tampering, including by limiting electronic
-and physical access permissions to hardware and maintaining logs of physical access to hardware that allows for
-event reconstruction;
-(iv) log system events including, at minimum, access and alterations made to the audit trail systems
-by the systems or by an authorized user, and all system administrator functions performed on the systems; and
-(v) maintain records produced as part of the audit trail in accordance with the recordkeeping
-requirements set forth in this Part.
-(f) Application Security. Each Licensee’s cyber security program shall, at minimum, include written
-procedures, guidelines, and standards reasonably designed to ensure the security of all applications utilized by
-the Licensee. All such procedures, guidelines, and standards shall be reviewed, assessed, and updated by the
-Licensee’s CISO at least annually.
-(g) Personnel and Intelligence. Each Licensee shall:
-(1) employ cyber security personnel adequate to manage the Licensee’s cyber security risks and to
-perform the core cyber security functions specified in Paragraph 200.16(a)(1)-(5);
-(2) provide and require cyber security personnel to attend regular cyber security update and training
-sessions; and
-(3) require key cyber security personnel to take steps to stay abreast of changing cyber security threats
-and countermeasures.
-35
- Statutory Authority: Financial Services Law Sections 102, 202, 301, and 302 
+(1) employ cyber security personnel adequate to manage the Licensee’s cyber security risks and to perform the core cyber security functions specified in Paragraph 200.16(a)(1)-(5);
 
-36
- 
+(2) provide and require cyber security personnel to attend regular cyber security update and training sessions; and
 
+(3) require key cyber security personnel to take steps to stay abreast of changing cyber security threats and countermeasures.
 
+Statutory Authority: Financial Services Law Sections 102, 202, 301, and 302 
 
+##Section 200.17 Business continuity and disaster recovery
 
+####(a) Each Licensee shall establish and maintain a written business continuity and disaster recovery (“BCDR”) plan reasonably designed to ensure the availability and functionality of the Licensee’s services in the event of an emergency or other disruption to the Licensee’s normal business activities. The BCDR plan, at minimum, shall:
 
+(1) identify documents, data, facilities, infrastructure, personnel, and competencies essential to the continued operations of the Licensee’s business;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 200.17 Business continuity and disaster recovery
-(a) Each Licensee shall establish and maintain a written business continuity and disaster recovery
-(“BCDR”) plan reasonably designed to ensure the availability and functionality of the Licensee’s services in the
-event of an emergency or other disruption to the Licensee’s normal business activities. The BCDR plan, at
-minimum, shall:
-(1) identify documents, data, facilities, infrastructure, personnel, and competencies essential to the
-continued operations of the Licensee’s business;
 (2) identify the supervisory personnel responsible for implementing each aspect of the BCDR plan;
-(3) include a plan to communicate with essential Persons in the event of an emergency or other
-disruption to the operations of the Licensee, including employees, counterparties, regulatory authorities, data
-and communication providers, disaster recovery specialists, and any other Persons essential to the recovery of
-documentation and data and the resumption of operations;
-(4) include procedures for the maintenance of back-up facilities, systems, and infrastructure as well as
-alternative staffing and other resources to enable the timely recovery of data and documentation and to resume
-operations as soon as reasonably possible following a disruption to normal business activities;
-(5) include procedures for the back-up or copying, with sufficient frequency, of documents and data
-essential to the operations of the Licensee and storing of the information off site; and
+
+(3) include a plan to communicate with essential Persons in the event of an emergency or other disruption to the operations of the Licensee, including employees, counterparties, regulatory authorities, data and communication providers, disaster recovery specialists, and any other Persons essential to the recovery of documentation and data and the resumption of operations;
+
+(4) include procedures for the maintenance of back-up facilities, systems, and infrastructure as well as alternative staffing and other resources to enable the timely recovery of data and documentation and to resume operations as soon as reasonably possible following a disruption to normal business activities;
+
+(5) include procedures for the back-up or copying, with sufficient frequency, of documents and data essential to the operations of the Licensee and storing of the information off site; and
+
 (6) identify third parties that are necessary to the continued operations of the Licensee’s business.
-(b) Each Licensee shall distribute a copy of the BCDR plan, and any revisions thereto, to all relevant
-employees and shall maintain copies of the BCDR plan at one or more accessible off-site locations.
-(c) Each Licensee shall provide relevant training to all employees responsible for implementing the BCDR
-plan regarding their roles and responsibilities.
-37
- 
 
+####(b) Each Licensee shall distribute a copy of the BCDR plan, and any revisions thereto, to all relevant employees and shall maintain copies of the BCDR plan at one or more accessible off-site locations.
 
+####(c) Each Licensee shall provide relevant training to all employees responsible for implementing the BCDR plan regarding their roles and responsibilities.
 
+####(d) Each Licensee shall promptly notify the superintendent of any emergency or other disruption to its operations that may affect its ability to fulfill regulatory obligations or that may have a significant adverse effect on the Licensee, its counterparties, or the market.
 
-(d) Each Licensee shall promptly notify the superintendent of any emergency or other disruption to its
-operations that may affect its ability to fulfill regulatory obligations or that may have a significant adverse effect
-on the Licensee, its counterparties, or the market.
-(e) The BCDR plan shall be tested at least annually by qualified, independent internal personnel or a
-qualified third party, and revised accordingly.
+####(e) The BCDR plan shall be tested at least annually by qualified, independent internal personnel or a qualified third party, and revised accordingly.
+
 Statutory Authority: Financial Services Law Sections 102, 202, 301, and 302
-38
- 
 
+##Section 200.18 Advertising and marketing
 
+####(a) Each Licensee engaged in Virtual Currency Business Activity shall not advertise its products, services, or activities in New York or to New York Residents without including the name of the Licensee and the legend that such Licensee is “Licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.”
 
+####(b) Each Licensee shall maintain, for examination by the superintendent, all advertising and marketing materials for a period of at least seven years from the date of their creation, including but not limited to print media, internet media (including websites), radio and television advertising, road show materials, presentations, and brochures. Each Licensee shall maintain hard copy, website captures of material changes to internet advertising and marketing, and audio and video scripts of its advertising and marketing materials, as applicable.
 
+####(c) In all advertising and marketing materials, each Licensee shall comply with all disclosure requirements under federal and state laws, rules, and regulations.
 
+####(d) In all advertising and marketing materials, each Licensee and any person or entity acting on its behalf, shall not, directly or by implication, make any false, misleading, or deceptive representations or omissions.
 
-
-
-
-
-
-
-
-
-Section 200.18 Advertising and marketing
-(a) Each Licensee engaged in Virtual Currency Business Activity shall not advertise its products, services,
-or activities in New York or to New York Residents without including the name of the Licensee and the legend
-that such Licensee is “Licensed to engage in Virtual Currency Business Activity by the New York State
-Department of Financial Services.”
-(b) Each Licensee shall maintain, for examination by the superintendent, all advertising and marketing
-materials for a period of at least seven years from the date of their creation, including but not limited to print
-media, internet media (including websites), radio and television advertising, road show materials, presentations,
-and brochures. Each Licensee shall maintain hard copy, website captures of material changes to internet
-advertising and marketing, and audio and video scripts of its advertising and marketing materials, as applicable.
-(c) In all advertising and marketing materials, each Licensee shall comply with all disclosure requirements
-under federal and state laws, rules, and regulations.
-(d) In all advertising and marketing materials, each Licensee and any person or entity acting on its behalf,
-shall not, directly or by implication, make any false, misleading, or deceptive representations or omissions.
 Statutory authority: Financial Services Law Sections 102, 202, 301, and 302
-39
- 
 
+##Section 200.19 Consumer protection
 
+####(a) Disclosure of material risks. As part of establishing a relationship with a customer, and prior to entering into an initial transaction for, on behalf of, or with such customer, each Licensee shall disclose in clear, conspicuous, and legible writing in the English language and in any other predominant language spoken by the customers of the Licensee, all material risks associated with its products, services, and activities and Virtual Currency generally, including at a minimum, the following:
 
+(1) virtual Currency is not legal tender, is not backed by the government, and accounts and value balances are not subject to Federal Deposit Insurance Corporation or Securities Investor Protection Corporation protections;
 
+(2) legislative and regulatory changes or actions at the state, federal, or international level may adversely affect the use, transfer, exchange, and value of Virtual Currency;
 
+(3) transactions in Virtual Currency may be irreversible, and, accordingly, losses due to fraudulent or accidental transactions may not be recoverable;
 
+(4) some Virtual Currency transactions shall be deemed to be made when recorded on a public ledger, which is not necessarily the date or time that the customer initiates the transaction;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 200.19 Consumer protection
-(a) Disclosure of material risks. As part of establishing a relationship with a customer, and prior to entering
-into an initial transaction for, on behalf of, or with such customer, each Licensee shall disclose in clear,
-conspicuous, and legible writing in the English language and in any other predominant language spoken by the
-customers of the Licensee, all material risks associated with its products, services, and activities and Virtual
-Currency generally, including at a minimum, the following:
-(1) virtual Currency is not legal tender, is not backed by the government, and accounts and value
-balances are not subject to Federal Deposit Insurance Corporation or Securities Investor Protection Corporation
-protections;
-(2) legislative and regulatory changes or actions at the state, federal, or international level may adversely
-affect the use, transfer, exchange, and value of Virtual Currency;
-(3) transactions in Virtual Currency may be irreversible, and, accordingly, losses due to fraudulent or
-accidental transactions may not be recoverable;
-(4) some Virtual Currency transactions shall be deemed to be made when recorded on a public ledger,
-which is not necessarily the date or time that the customer initiates the transaction;
-(5) the value of Virtual Currency may be derived from the continued willingness of market participants
-to exchange Fiat Currency for Virtual Currency, which may result in the potential for permanent and total loss
+(5) the value of Virtual Currency may be derived from the continued willingness of market participants to exchange Fiat Currency for Virtual Currency, which may result in the potential for permanent and total loss
 of value of a particular Virtual Currency should the market for that Virtual Currency disappear;
-(6) there is no assurance that a Person who accepts a Virtual Currency as payment today will continue to
-do so in the future;
-(7) the volatility and unpredictability of the price of Virtual Currency relative to Fiat Currency may
-result in significant loss over a short period of time;
+
+(6) there is no assurance that a Person who accepts a Virtual Currency as payment today will continue to do so in the future;
+
+(7) the volatility and unpredictability of the price of Virtual Currency relative to Fiat Currency may result in significant loss over a short period of time;
+
 (8) the nature of Virtual Currency may lead to an increased risk of fraud or cyber attack;
-40
- 
 
+(9) the nature of Virtual Currency means that any technological difficulties experienced by the Licensee may prevent the access or use of a customer’s Virtual Currency; and
 
+(10) any bond or trust account maintained by the Licensee for the benefit of its customers may not be sufficient to cover all losses incurred by customers.
 
+####(b) Disclosure of general terms and conditions. When opening an account for a new customer, and prior to entering into an initial transaction for, on behalf of, or with such customer, each Licensee shall disclose in clear, conspicuous, and legible writing in the English language and in any other predominant language spoken by the customers of the Licensee, all relevant terms and conditions associated with its products, services, and activities and Virtual Currency generally, including at a minimum, the following, as applicable:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(9) the nature of Virtual Currency means that any technological difficulties experienced by the Licensee
-may prevent the access or use of a customer’s Virtual Currency; and
-(10) any bond or trust account maintained by the Licensee for the benefit of its customers may not be
-sufficient to cover all losses incurred by customers.
-(b) Disclosure of general terms and conditions. When opening an account for a new customer, and prior to
-entering into an initial transaction for, on behalf of, or with such customer, each Licensee shall disclose in clear,
-conspicuous, and legible writing in the English language and in any other predominant language spoken by the
-customers of the Licensee, all relevant terms and conditions associated with its products, services, and activities
-and Virtual Currency generally, including at a minimum, the following, as applicable:
 (1) the customer’s liability for unauthorized Virtual Currency transactions;
-(2) the customer’s right to stop payment of a preauthorized Virtual Currency transfer and the procedure
-to initiate such a stop-payment order;
-(3) under what circumstances the Licensee will, absent a court or government order, disclose
-information concerning the customer’s account to third parties;
+
+(2) the customer’s right to stop payment of a preauthorized Virtual Currency transfer and the procedure to initiate such a stop-payment order;
+
+(3) under what circumstances the Licensee will, absent a court or government order, disclose information concerning the customer’s account to third parties;
+
 (4) the customer’s right to receive periodic account statements and valuations from the Licensee;
+
 (5) the customer’s right to receive a receipt, trade ticket, or other evidence of a transaction;
+
 (6) the customer’s right to prior notice of a change in the Licensee’s rules or policies; and
+
 (7) such other disclosures as are customarily given in connection with the opening of customer accounts.
-(c) Disclosures of the terms of transactions. Prior to each transaction in Virtual Currency, for, on behalf of,
-or with a customer, each Licensee shall furnish to each such customer a written disclosure in clear, conspicuous,
-and legible writing in the English language and in any other predominant language spoken by the customers of
-the Licensee, containing the terms and conditions of the transaction, which shall include, at a minimum, to the
-extent applicable:
-41
- 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+####(c) Disclosures of the terms of transactions. Prior to each transaction in Virtual Currency, for, on behalf of, or with a customer, each Licensee shall furnish to each such customer a written disclosure in clear, conspicuous, and legible writing in the English language and in any other predominant language spoken by the customers of the Licensee, containing the terms and conditions of the transaction, which shall include, at a minimum, to the extent applicable:
 
 (1) the amount of the transaction;
+
 (2) any fees, expenses, and charges borne by the customer, including applicable exchange rates;
+
 (3) the type and nature of the Virtual Currency transaction;
+
 (4) a warning that once executed the transaction may not be undone, if applicable; and
+
 (5) such other disclosures as are customarily given in connection with a transaction of this nature.
-(d) Acknowledgement of disclosures. Each Licensee shall ensure that all disclosures required in this
-Section are acknowledged as received by customers.
-(e) Receipts. Upon completion of any transaction, each Licensee shall provide to a customer a receipt
-containing the following information:
-(1) the name and contact information of the Licensee, including a telephone number established by the
-Licensee to answer questions and register complaints;
+
+####(d) Acknowledgement of disclosures. Each Licensee shall ensure that all disclosures required in this Section are acknowledged as received by customers.
+
+####(e) Receipts. Upon completion of any transaction, each Licensee shall provide to a customer a receipt containing the following information:
+
+(1) the name and contact information of the Licensee, including a telephone number established by the Licensee to answer questions and register complaints;
+
 (2) the type, value, date, and precise time of the transaction;
+
 (3) the fee charged;
+
 (4) the exchange rate, if applicable;
+
 (5) a statement of the liability of the Licensee for non-delivery or delayed delivery;
+
 (6) a statement of the refund policy of the Licensee; and
+
 (7) any additional information the superintendent may require.
-(f) Each Licensee shall make available to the Department, upon request, the form of the receipts it is
-required to provide to customers in accordance with Subsection 200.19(e).
-(g) Prevention of fraud. Licensees are prohibited from engaging in fraudulent activity. Additionally, each
-Licensee shall take reasonable steps to detect and prevent fraud, including by establishing and maintaining a
-written anti-fraud policy. The anti-fraud policy shall, at a minimum, include:
+
+####(f) Each Licensee shall make available to the Department, upon request, the form of the receipts it is required to provide to customers in accordance with Subsection 200.19(e).
+
+####(g) Prevention of fraud. Licensees are prohibited from engaging in fraudulent activity. Additionally, each Licensee shall take reasonable steps to detect and prevent fraud, including by establishing and maintaining a written anti-fraud policy. The anti-fraud policy shall, at a minimum, include:
+
 (1) the identification and assessment of fraud-related risk areas;
-42
- 
-
-
 
 (2) procedures and controls to protect against identified risks;
+
 (3) allocation of responsibility for monitoring risks; and
-(4) procedures for the periodic evaluation and revision of the anti-fraud procedures, controls, and
-monitoring mechanisms.
+
+(4) procedures for the periodic evaluation and revision of the anti-fraud procedures, controls, and monitoring mechanisms.
+
 Statutory Authority: Financial Services Law Sections 102, 201, 202, 301, 302, 306, and 404
 
-43
- 
+##Section 200.20 Complaints
 
+####(a) Each Licensee shall establish and maintain written policies and procedures to fairly and timely resolve complaints.
 
+####(b) Each Licensee must provide, in a clear and conspicuous manner, on its website or websites, in all physical locations, and in any other location as the superintendent may prescribe, the following disclosures:
 
-
-
-
-
-
-
-
-
-Section 200.20 Complaints
-(a) Each Licensee shall establish and maintain written policies and procedures to fairly and timely reso lve
-complaints.
-(b) Each Licensee must provide, in a clear and conspicuous manner, on its website or websites, in all
-physical locations, and in any other location as the superintendent may prescribe, the following disclosures:
 (1) the Licensee’s mailing address, email address, and telephone number for the receipt of complaints;
-(2) a statement that the complainant may also bring his or her complaint to the attention of the
-Department;
+
+(2) a statement that the complainant may also bring his or her complaint to the attention of the Department;
+
 (3) the Department’s mailing address, website, and telephone number; and
+
 (4) such other information as the superintendent may require.
-(c) Each Licensee shall report to the superintendent any change in the Licensee’s complaint policies or
-procedures within seven days.
+
+####(c) Each Licensee shall report to the superintendent any change in the Licensee’s complaint policies or procedures within seven days.
+
 Statutory authority: Financial Services Law Sections 102, 201, 202, 301, and 302
-44
- 
 
+##Section 200.21 Transitional Period
 
+A Person already engaged in Virtual Currency Business Activity must apply for a license in accordance with this Part within 45 days of the effective date of this regulation. In doing so, such applicant shall be deemed in compliance with the licensure requirements of this Part until it has been notified by the superintendent that its application has been denied, in which case it shall immediately cease operating in this state and doing business with New York State Residents. Any Person engaged in Virtual Currency Business Activity that fails to submit an application for a license within 45 days of the effective date of this regulation shall be deemed to be conducting unlicensed Virtual Currency Business Activity.
 
-
-
-
-
-
-Section 200.21 Transitional Period
-A Person already engaged in Virtual Currency Business Activity must apply for a license in accordance with
-this Part within 45 days of the effective date of this regulation. In doing so, such applicant shall be deemed in
-compliance with the licensure requirements of this Part until it has been notified by the superintendent that its
-application has been denied, in which case it shall immediately cease operating in this state and doing business
-with New York State Residents. Any Person engaged in Virtual Currency Business Activity that fails to submit
-an application for a license within 45 days of the effective date of this regulation shall be deemed to be
-conducting unlicensed Virtual Currency Business Activity.
 Statutory authority: Financial Services Law Sections 202, 206, 302, 303, 305, 306, 309, 404, and 408
-45
- 
 
+##Section 200.22 Severability
 
-
-
-Section 200.22 Severability
-If any provision of this Part or the application thereof to any Person or circumstance is adjudged invalid by a
-court of competent jurisdiction, such judgment shall not affect or impair the validity of the other provisions of
+If any provision of this Part or the application thereof to any Person or circumstance is adjudged invalid by a court of competent jurisdiction, such judgment shall not affect or impair the validity of the other provisions of
 this Part or the application thereof to other Persons or circumstances.
-Statutory Authority: Financial Services Law Sections 102, 201, 301, and 302
 
-46
- 
+Statutory Authority: Financial Services Law Sections 102, 201, 301, and 302

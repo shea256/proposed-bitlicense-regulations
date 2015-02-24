@@ -88,8 +88,6 @@ For purposes of this Part only, the following definitions shall apply:
 
 4. performing retail conversion services, including the conversion or exchange of Fiat Currency or other value into Virtual Currency, the conversion or exchange of Virtual Currency into Fiat Currency or other value, or the conversion or exchange of one form of Virtual Currency into another form of Virtual Currency; or
 
-5. controlling, administering, or issuing a Virtual Currency.
-
 *Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302*
 
 <a name="license"/>

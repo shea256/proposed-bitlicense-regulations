@@ -282,7 +282,7 @@ Statutory authority: Financial Services Law, sections 202, 206, 301, 302, and 30
 
 9. all other records as the superintendent may require.
 
-##### (b) Each Licensee shall provide the Department, upon request, immediate access to all facilities, books, records, documents, or other information maintained by the Licensee or its Affiliates, wherever located.
+##### (b) Each Licensee shall provide the Department, upon request, immediate access to all facilities, books, records, documents, or other information maintained by the Licensee, wherever located.
 
 ##### (c) Records of non-completed, outstanding, or inactive Virtual Currency accounts or transactions shall be maintained for at least five years after the time when any such Virtual Currency has been deemed, under the Abandoned Property Law, to be abandoned property.
 
@@ -306,8 +306,6 @@ Statutory authority: Financial Services Law, sections 202, 206, 301, 302, and 30
 ##### (b) Each Licensee shall permit and assist the superintendent at any time to examine all of the Licensee’s books, records, accounts, documents, and other information.
 
 ##### (c) Each Licensee shall permit and assist the superintendent to make such special investigations as the superintendent shall deem necessary to determine whether a Licensee has violated any provision of the applicable laws, rules, or regulations and to the extent necessary shall permit and assist the superintendent to examine all relevant facilities, books, records, accounts, documents, and other information.
-
-##### (d) For the purpose of determining the financial condition of the Licensee or its safety and soundness practices, the Licensee shall permit and assist the superintendent, when in the superintendent’s judgment it is necessary or advisable, to examine an Affiliate of the Licensee.
 
 *Statutory authority: Financial Services Law, sections 102, 202, 301, and 302*
  

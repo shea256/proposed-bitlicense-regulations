@@ -82,7 +82,7 @@ For purposes of this Part only, the following definitions shall apply:
 
 1. receiving Virtual Currency for transmission or transmitting the same;
 
-2. securing, storing, holding, or maintaining custody or control of Virtual Currency on behalf of others;
+2. securing, storing, holding, or maintaining custody of Virtual Currency on behalf of others;
 
 3. buying and selling Virtual Currency as a customer business;
 

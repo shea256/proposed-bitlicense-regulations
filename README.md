@@ -105,6 +105,9 @@ For purposes of this Part only, the following definitions shall apply:
 
 2. merchants and consumers that utilize Virtual Currency solely for the purchase or sale of goods or services.
 
+3. Persons and entities running Virtual Currency mining software or Peer-to-Peer Virtual Currency nodes.
+
+
 *Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302*
 
 <a name="application"/>

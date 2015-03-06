@@ -1,6 +1,8 @@
 Proposed BitLicense Regulations for the State of New York
 ==========
 
+### [View comparison to Original document](https://github.com/onenameio/proposed-bitlicense-regulations/compare/master...original)
+
 [view/annotate on genius.com](http://news.genius.com/New-york-department-of-financial-services-proposed-bitlicense-regulations-annotated)
 
 ##### Table of Contents

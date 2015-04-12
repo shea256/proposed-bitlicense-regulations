@@ -120,7 +120,7 @@ For purposes of this Part only, the following definitions shall apply:
 
 4. a background report prepared by an independent investigatory agency acceptable to the superintendent for each individual applicant, and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable;
 
-5. for each individual applicant, and each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant, as applicable, and for all individuals to be employed by the applicant:
+5. for each Principal Officer, Principal Stockholder, and Principal Beneficiary of the applicant:
 
     1. a set of completed fingerprints, or a receipt indicating the vendor (which vendor must be acceptable to the superintendent) at which, and the date when, the fingerprints were taken, for submission to the State Division of Criminal Justice Services and the Federal Bureau of Investigation;
 
